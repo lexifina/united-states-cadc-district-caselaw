@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "01-810 (RJL)"
 decided: "2004-03-31"
-citations: ["357 F. Supp. 2d 2", "357 F. Supp. 2d 19"]
+citations: ["357 F. Supp. 2d 2"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Laverne Johnson REYNOLDS, et al., Plaintiffs, v. THE U.S. CAPITOL POL
 source_url: "https://static.case.law/f-supp-2d/357/cases/0002-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9169936
-cites_cases: ["120 F.Supp.2d 78", "129 F.3d 618", "133 F.Supp.2d 24", "146 F.3d 899", "150 F.Supp.2d 133", "155 F.3d 575", "16 F.3d 1271", "16 F.Supp.2d 8", "160 F.3d 750", "180 F.Supp.2d 158", "198 F.3d 857", "1982 U.S. Dist. LEXIS 11694", "1982 WL 328", "1993 WL 184007", "1997 WL 702349", "2 U.S.C. § 1402", "2 U.S.C. § 1403", "2 U.S.C. § 1408", "2 U.S.C. §§ 1301-1438", "2 U.S.C. §§ 1302", "2 U.S.C. §§ 1402-1404", "2 U.S.C. §§ 1404", "2001 WL 1699417", "2001 WL 797876", "209 F.Supp.2d 175", "216 F.3d 1111", "216 F.3d 36", "22 Fed.Appx. 14", "28 U.S.C. § 1927", "351 F.3d 519", "355 U.S. 41", "40 F.3d 1300", "414 U.S. 538", "42 U.S.C. § 12101", "42 U.S.C. § 12102", "439 F.Supp. 216", "449 U.S. 250", "486 U.S. 800", "498 U.S. 89", "5 U.S.C. §§ 8101-8193", "536 U.S. 101", "60 F.3d 844", "602 F.Supp. 1412", "617 F.2d 605", "66 F.Supp.2d 16", "753 F.2d 1092", "770 F.2d 1168", "777 F.2d 8", "803 F.2d 1197", "808 F.2d 1197", "812 F.Supp. 1256", "818 F.2d 901", "845 F.2d 1051", "865 F.Supp. 934", "880 F.2d 1439", "899 F.2d 40", "944 F.Supp. 33", "944 F.Supp. 966"]
+cites_cases: ["120 F.Supp.2d 78", "129 F.3d 618", "133 F.Supp.2d 24", "155 F.3d 575", "16 F.3d 1271", "16 F.Supp.2d 8", "160 F.3d 750", "180 F.Supp.2d 158", "198 F.3d 857", "1982 U.S. Dist. LEXIS 11694", "1982 WL 328", "1997 WL 702349", "2 U.S.C. § 1402", "2 U.S.C. § 1403", "2 U.S.C. § 1408", "2 U.S.C. §§ 1301-1438", "2 U.S.C. §§ 1302", "2 U.S.C. §§ 1402-1404", "2 U.S.C. §§ 1404", "2001 WL 797876", "209 F.Supp.2d 175", "216 F.3d 1111", "216 F.3d 36", "22 Fed.Appx. 14", "351 F.3d 519", "355 U.S. 41", "414 U.S. 538", "42 U.S.C. § 12101", "42 U.S.C. § 12102", "439 F.Supp. 216", "449 U.S. 250", "486 U.S. 800", "498 U.S. 89", "5 U.S.C. §§ 8101-8193", "536 U.S. 101", "617 F.2d 605", "66 F.Supp.2d 16", "753 F.2d 1092", "777 F.2d 8", "803 F.2d 1197", "818 F.2d 901", "845 F.2d 1051", "880 F.2d 1439", "944 F.Supp. 966"]
 ---
 
 # Reynolds v. U.S. Capitol Police Board

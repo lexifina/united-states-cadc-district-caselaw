@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civ. A. No. 89-142 (CRR)"
+decided: "1993-07-19"
+citations: ["829 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Scott ARMSTRONG, et al., Plaintiffs, v. EXECUTIVE OFFICE OF THE PRESIDENT, et al., Defendants."]
+source_url: "https://static.case.law/f-supp/829/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 398766
+cites_cases: ["39 L.Ed.2d 873", "415 U.S. 977", "44 U.S.C. §§ 2101-2118", "484 F.2d 820", "5 U.S.C. § 552", "5 U.S.C. § 701", "810 F.Supp. 335", "823 F.Supp. 4", "94 S.Ct. 1564"]
+---
+
+# Armstrong v. Executive Office of the President
+
+## Majority (CHARLES R. RICHEY, District Judge.)
+
+ORDER
+CHARLES R. RICHEY, District Judge.
+The above-captioned case came before the Court for a status conference on July 13, 1993, pursuant to Rule 16 of the Federal Rules for Civil Procedure. At that time, the Court discussed with the parties how to most quickly and efficiently resolve the outstanding matters in this lawsuit pertaining to the Freedom of Information Act (“FOIA”). 5 U.S.C. § 552, et seq.
+On January 6 and 11, 1993, the Court granted Summary Judgment to the Plaintiffs on Counts II and III of their Third Amended Complaint, alleging claims under the Federal Records Act (“FRA”), 44 U.S.C. §§ 2101-2118, 2901-2910, 3101-3107, and 3301-3324, and the Administrative Procedures Act (“APA”). 5 U.S.C. § 701 et seq. The Court held, inter alia, that the information on the Defendants’ electronic communications systems at issue in this litigation are subject to the FRA and that the federal record keeping guidelines promulgated by the Defendant agencies violated the FRA and were arbitrary and capricious under the APA because they permitted the destruction of these electronic federal records. See Armstrong v. Executive Office of the President, 810 F.Supp. 335 (D.D.C.1993). The parties have each filed an appeal of the Court’s decision and the appeal is pending, sub judice, before the Court of Appeals for the District of Columbia Circuit. Armstrong v. Executive Office of the President, 810 F.Supp. 335 (D.D.C. 1993), appeal docketed, Nos. 93-5002 and 93-5048 (D.C.Cir. Jan. 1, 1993, and Feb. 24, 1993).
+The Plaintiffs’ FOIA claim contained in Count I of their Complaint remains to be resolved by this Court. In this Count, the Plaintiffs have requested both electronic and written materials under the FOIA. Now pending before the Court are two Motions for Summary Judgment, filed by the Defendants, as to the FOIA claims in this suit: the first motion concerns the electronic materials requested by the Plaintiffs while the second motion concerns the paper material.
+The Motion regarding the electronic records involves many of the same issues and arguments as are currently before our Court of Appeals, sub judice, in Counts II and III in this case. Therefore, the Court concludes that the Defendants’ Motion for Summary Judgment on the FOIA concerning electronic materials is intertwined with the issues currently before our Court of Appeals. As the appeal is on an expedited schedule, the Court concludes that it is in the interest of justice and judicial economy to stay any ruling on this Motion until the appeal is decided. However, the parties are on notice that the Court shall address the Plaintiffs’ FOIA claim regarding electronic records as soon as possible after the Court of Appeals issues its decision.
+The other Motion for Summary judgment presently before the Court concerns the Plaintiffs’ FOIA claim for paper materials. The Defendant has filed a partial motion for summary judgment as to these papers materials and has prepared a partial Vaughn v. Rosen index. The Plaintiffs object to any piecemeal disposition of their FOIA claim for paper materials and have not yet responded to this Motion. See Plaintiffs’ Reply in Support of Motion to Compel Completion of Vaughn index. Instead, the Plaintiffs have filed a Motion to Compel Completion of the Vaughn index so that the Court can resolve all the FOIA requests for papers materials at the same time and the Plaintiffs have requested an extension of time to file their Opposition to the Defendants’ Motion until a complete Vaughn index has been prepared.
+At the status conference, both parties agreed that an updated and complete Vaughn index was needed before the Court could resolve the FOIA claims as to all of the paper materials. The Court concludes that it is in the interest of justice and judicial economy to resolve all of the' FOIA claims as to the papers materials at the same time. Furthermore, the Court notes that the Defendant agencies bear the burden of sustaining their withholding of records, 5 U.S.C. § 552(a)(4)(B), and that a complete Vaughn index is required to explain the agencies’ justification for withholding each document or category of documents. See Vaughn v. Rosen, 484 F.2d 820, 827 (D.C.Cir.1973), cert. denied, 415 U.S. 977, 94 S.Ct. 1564, 39 L.Ed.2d 873 (1974). Therefore, in light of the parties agreement that a complete Vaughn index is needed, the Court shall grant the Plaintiffs’ Motion to Compel Completion of the Vaughn index and shall order the Defendants to complete the Vaughn index within 30 days of the date of this order. Furthermore, the parties shall file dispositive motions as to these paper materials as soon as the Vaughn index is completed.
+Accordingly, it is, by the Court, this 19th day of July, 1993,
+ORDERED that the Defendants’ Motion for Summary Judgment on the Plaintiffs’ Freedom of Information Act claims concerning electronic records shall be, and hereby is, STAYED pending the decision of the Court of Appeals for the District of Columbia Circuit in Armstrong v. Executive Office of the President, 810 F.Supp. 335 (D.D.C.1993), appeal docketed, Nos. 93-5002 and 93-5048 (D.C.Cir. Jan. 1, 1993, and Feb. 24, 1993); and it is
+FURTHER ORDERED that the Plaintiffs Motion to Compel the Completion of the Vaughn index shall be, and hereby is, GRANTED; and it is
+FURTHER ORDERED that the Defendants’ shall file a complete Vaughn v. Rosen index on or before 4:00 p.m. on August 18, 1993; and it is
+FURTHER ORDERED that the parties shall file any and dispositive motions pertaining to the Plaintiffs’ Freedom of Information Act claims for paper materials on or before 4:00 p.m. on August 25, 1993; and it is
+FURTHER ORDERED that the parties shall file their opposition on or before 4:00 p.m. on September 7, 1993; and it is
+FURTHER ORDERED that the parties shall file their reply on or before 4:00 p.m. on September 13, 1993; and it is
+FURTHER ORDERED that the Defendants’ Motion for Partial Summary Judgment on the Plaintiffs’ Freedom of Information Act claims concerning paper materials shall be and hereby is DENIED without prejudice; and it is
+FURTHER ORDERED that the Plaintiffs’ Motion for an Extension of Time to Respond to the Defendants’ motion for Partial Summary Judgment shall be, and hereby is DENIED as moot.
+. In a status report to the Court filed on July 12, 1993, the Defendants informed the Court that they had finally responded to all of the Plaintiffs FOIA requests for paper materials. At the conference, the Defendants agreed that a final Vaughn index was need to bring all of the Plaintiffs’ FOIA claim for paper materials before the Court for resolution.

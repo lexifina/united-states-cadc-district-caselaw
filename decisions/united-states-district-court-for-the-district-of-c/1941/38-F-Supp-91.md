@@ -1,0 +1,42 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "4245"
+decided: "1941-02-14"
+citations: ["38 F. Supp. 91"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SMART et al. v. COE, Commissioner of Patents."]
+source_url: "https://static.case.law/f-supp/38/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4180462
+---
+
+# Smart v. Coe
+
+## Majority (BAILEY, Associate Justice.)
+
+BAILEY, Associate Justice.
+Findings of Fact.
+1. The present action, brought under the provisions of Section 4915, Revised Statutes, U.S.C.A. Title 35, Section 63, involves an application for patent filed by the plaintiff Clarence F. Smart on October 4, 1935, Serial No. 43,468, and duly assigned to the plaintiff General Motors Corporation. The complaint as filed presented claims 11, 12, 13, 14, 15, 17, 21, 22, 24, 25, 26, 28, 29, 31, 32 and 33 of this application.
+2. At the trial the plaintiffs withdrew, with a reservation of the right to file an appropriate divisional application, claims 11, 13, 24, 25, 26 and 32 as part of the cause of action and urged as patentable in this application the remaining claims, numbered 12, 14, 15, 17, 21, 22, 28, 29, 31 and 33.
+3. The defendant contested these remaining claims as improperly joined in this application for patent for the reason that claims 14, 22 and 33 are drawn to subject matter of invention patentably distinct from that of claims 12, 15, 17, 21, 28, 29 and 31, as unpatentable on the ground that said remaining claims are too broad and indefinite, and as unpatentable over the following prior art: U. S. Patent No. 1,878,686, Ellis, Transactions of The Electrochemical Society, (1933) Vol. LXIII, Page 157, and Industrial and Engineering Chemistry, (June 1932) Vol. 24, Page 686.
+At the trial, the defendant also objected to claims 12, 17 and 29 because each of these claims lists, as hardening metals in a single class, copper, nickel and antimony. The plaintiffs contested these various objections.
+4. Said application for patent relates to certain bearing alloys having indium as a constituent in sufficient amount to prevent corrosion which is due to acids in lubricants and which would occur except for the indium. More particularly, so far as the claims remaining in suit are concerned, the application- relates to cadmium bearing alloys each having as one constituent indium in sufficient amount to protect the alloy from such corrosion. In all of these bearing alloys it is the cadmium which is subjected to corrosion by acids in lubricants and the indium which protects the cadmium from corrosion.
+It was known that cadmium and certain cadmium base alloys constitute suitable bearing material. When bearings having facings formed of such cadmium alloys were put into commercial use, however, it was found that many of them failed in a relatively short time. Investigation disclosed that these failures occurred when certain lubricating oils, refined by then new solvent refining processes, were used with such known cadmium bearing alloys, and it was determined that the cadmium in facings made of such cadmium alloys was corroded by acidic products formed in such lubricating oils during use.
+The applicant Smart, after considerable research and experimenting, found that such corrosion of cadmium is inhibited by alloying indium, even in small proportions, with cadmium and with certain cadmium bearing alloys, without appreciable detrimental effect on the good bearing qualities of the cadmium and its alloys. He determined that as little as 0.1 per cent indium gave satisfactory results, that up to 1 per cent indium gave complete protection against the most severe conditions which might be met in practical use, and that more than 1 per cent indium gave satisfactory results but was inadvisable because of the high cost of indium.
+Claims 12, 15, 17, 21, 28 and 31 at bar are so drawn as to' include numerous alloys not disclosed in plaintiff’s application.
+5. Since cadmium is a relatively soft metal, a hardening metal is commonly alloyed with it when it is intended for bearing use. Some hardening metals, such as silver, form solid solutions with cadmium when present in small amount and have a toughening effect. Other hardening metals, namely, copper, nickel and antimony, are distinctive in that a very small percentage thereof gives a pronounced hardening effect and also, as the percentage is increased, a very pronounced embrittling effect. In the art, copper, nickel and antimony are recognized as constituting a distinctive subgroup of hardeners. These hardening elements do not impart corrosion resistance to the cadmium and the indium protects the cadmium from corrosion caused by acid products in lubricants whether the hardener is or is not present.
+6. United States Patent No. 1,878,686, to Ellis, issued September 20, 1932, discloses the use of more than 5 per cent thallium alloyed with lead base bearings which is stated to give a higher melting point, greater strength and greater resistance to corrosion. This patent also states that gallium or indium may be utilized instead of thallium for the same purpose. The solvent refined oils which cause the corrosion herein referred to were not in existence at the time the Ellis patent application was filed and at that time there was no problem of oil corrosion in engine bearings.
+7. The publication “Transactions of The Electrochemical Society” (1933), Vol. LXIII, Page 157, states that indium has been found to alloy with cadmium (among other metals listed) and that the effect of indium, like tin, is to increase hardness. This publication does not disclose a bearing containing cadmium and indium, nor does it teach that indium will protect cadmium from acid products in lubricants.
+8. The publication “Industrial and Engineering Chemistry” (June, 1932), Vol. 24, Page 686, discloses that the alloying of indium to other elements, which are not specified, especially increases “the surface stability and also the hardness of the combination until indium is in excess.” The publication does not disclose a bearing containing indium, nor does it disclose a cadmium-indium alloy of any kind.
+Conclusions of Law.
+1. Claims 14, 22 and 33 are drawn to an alloy containing cadmium and indium and therefore should not be in the same application with claims 12, 15, 17, 21, 28, 29 and 31 which are drawn to a different alloy containing cadmium, indium and silver.
+2. The prior art does not disclose the alloy which is the subject matter of claims 12, 15, 17, 21, 28, 29 and 31.
+3. Claims 12, 15, 17, 21, 28 and 31 are so broad and indefinite as to be unpatentable.
+4. A claim which recites, as an ingredient of an alloy, an element of a group of specified elements having no common designation, although recognized in the art as having a common quality or characteristic, is proper and definite in the recitation of such element.
+5. Claim 29 contains a proper and definite recitation of a hardener consisting of one of the elements copper, nickel and antimony, is not too broad and indefinite, and the plaintiffs are entitled to a patent including this claim.
+6. Claims 11, 13, 24, 25, 26 and 32 having been withdrawn by the plaintiffs, the complaint should be dismissed as to such claims without prejudice to the plaintiffs’ right to file a divisional application on the subject matter of such claims.
+7. The complaint should be dismissed as to claims 12, 14, 15, 17, 21, 22, 28, 31 and 33.
+At the trial plaintiffs withdrew from consideration claims numbered 11, 13, 24, 25, 26 and 32, without prejudice to their bringing a divisional application, leaving for consideration claims 12, 14, 15, 17, 21, 22, 28, 29, 31 and 33. Of these remaining claims Nos. 14, 22 and 33 are drawn to an alloy containing cadmium and indium and the remainder to an alloy containing cadmium, indium and silver. I agree with the Patent Office that separate claims to these different kinds of alloys should not be in the same application.
+I agree with the Patent Office that claims 12, 15, 17, 21, 28, and 31 are too broad and indefinite but this objection does not apply to claim 29. Nor can I agree with the Patent Office that this claim should not be allowed because it contains a hardener consisting of one of the elements copper, nickel and antimony. I think that the plaintiff is entitled to this claim.

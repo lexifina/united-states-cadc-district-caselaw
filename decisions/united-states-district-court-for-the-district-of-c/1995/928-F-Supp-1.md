@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 95-1956 (JR)"
+decided: "1995-12-05"
+citations: ["928 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ENVIRONMENTAL CRIMES PROJECT, Plaintiff, v. ENVIRONMENTAL PROTECTION AGENCY, Defendant."]
+source_url: "https://static.case.law/f-supp/928/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3464392
+cites_cases: ["28 U.S.C. § 1404", "42 U.S.C. § 6901", "5 U.S.C. § 552", "528 F.Supp. 472", "709 F.2d 717", "919 F.Supp. 1459"]
+---
+
+# Environmental Crimes Project v. Environmental Protection Agency
+
+## Majority (ROBERTSON, District Judge.)
+
+MEMORANDUM AND ORDER
+ROBERTSON, District Judge.
+Defendant EPA moves pursuant to 28 U.S.C. § 1404(a) for the transfer of this case to the District of Nevada, asserting that the FOIA dispute presented in this case is part and parcel of litigation pending in that district. EPA states that its right to withhold the records sought in this action has been called into question in two other actions pending before Judge Philip M. Pro: Frost v. Perry, 919 F.Supp. 1459 (D.Nev.1996) and Kasza v. Browner, No. C .V.-S-94-795-PMP (RLH) (D.Nev.1996). The two cases are “citizen suits” brought under a provision of the Resource Conservation and Recovery Act, 42 U.S.C. § 6901. The plaintiff in the instant case represents the plaintiffs in both of the Nevada eases. One of the two cases, Browner, was originally filed in this district and was transferred to Nevada by order of Judge Charles R. Richey on August 23,1994 pursuant to 28 U.S.C. § 1404(a). Judge Pro denied a motion to remand Browner back to this district. Numerous discovery requests have been made in the pending Nevada cases, some of which have been resisted by government defendants invoking the military and state secrets privilege (in the Perry ease against the Secretary of the Air Force) and the military and state secrets privilege, the attorney-client privilege, the work-product doctrine, and the investigatory files privilege (in the Browner case against the Administrator of EPA). Defendant states that nine motions to compel discovery have been filed in the Nevada actions.
+The change of venue statute 28 U.S.C. § 1404(a), provides that “for the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to any other district or division where it might have been brought.”
+The interest of justice clearly favors transfer of this case to Nevada: Judge Pro is already engaged with the fact issues and the discovery disputes. If this case were permitted to go forward in the District of Columbia there would be a risk of inconsistent results, and there would be waste or misapplication of judicial resources.
+The convenience of parties and witnesses is probably a neutral factor here. EPA concedes that many if not most of the records plaintiffs seek are physically located in Washington. Lawyers for both parties are present in both venues. FOIA litigation typically does not require witness testimony to any significant extent in any case.
+The controlling question on this motion is whether this civil action “might have been brought” in the District of Nevada. The original FOIA request was filed by Joan Manley, of Arlington, Virginia. Ms. Manley is an attorney with the Environmental Crimes Project but omitted to mention the Project or her association with it in her FOIA request and used her home address and telephone number. When EPA responded to Ms. Manley’s FOIA request the administrative appeal was taken, not by Ms. Manley, but by the Environmental Crimes Project. Neither the Environmental Crimes Project nor Joan Manley resides or has a principal place of business in Nevada. Some of the records at issue in this ease are not located there. Nevertheless, defendant urges a “flexible” reading of the venue provisions of 5 U.S.C. § 552(a)(4)(B). Defendant relies upon a persuasive decision of the Middle District of Louisiana, Cooper v. Department of the Air Force, 528 F.Supp. 472 (1981). Unlike the Cooper decision, however, In re Scott, 709 F.2d 717 (D.C.Cir.1983), is binding upon me. The Scott decision underscores the substantial weight that is due to a plaintiffs choice of forum in a FOIA case, 709 F.2d at 720, and appears to require a record containing “precise” information concerning the location of the records sought, id.
+I am unwilling to transfer this case in the absence of the precise record required by the Scott case.
+I am nevertheless impressed with defendant’s argument that the Environmental Crimes Project and the plaintiffs in the Perry and Browner cases are essentially interchangeable, and I am reluctant to proceed with adjudication of plaintiffs FOIA claims in a way that may “end run” or otherwise interfere with the case before Judge Pro.
+Accordingly, it is by the Court this 5th day of December 1995 sua sponte ORDERED that all proceedings in this action are stayed pending the resolution of the discovery disputes now before Judge Pro in the District of Nevada. Plaintiff may have to and including 30 days following the entry of an order disposing of the last of those motions to compel within which to respond to the instant motion to transfer. In that response, and in any government reply thereto, the Court expects to be advised (1) which documents now being sought by the plaintiff have been protected from discovery by orders of Judge Pro, and upon what grounds; and, for any documents not protected from disclosure or covered by the disclosure requests in Nevada, (2) whether responsive documents are located in the District of Columbia, or Nevada, or both.

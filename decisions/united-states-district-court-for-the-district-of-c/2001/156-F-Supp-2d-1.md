@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "CIV. A. 99-2496(GK)"
 decided: "2001-07-27"
-citations: ["156 F. Supp. 2d 1", "153 F. Supp. 2d 32"]
+citations: ["156 F. Supp. 2d 1"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["UNITED STATES of America, Plaintiff, v. PHILIP MORRIS INCORPORATED, e
 source_url: "https://static.case.law/f-supp-2d/156/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9492614
-cites_cases: ["10 U.S.C. § 1071", "105 S.Ct. 2353", "116 F.Supp.2d 116", "116 F.Supp.2d 131", "130 F.Supp.2d 96", "132 F.3d 753", "16 F.3d 1271", "1996 WL 862610", "2001 WL 283163", "2001 WL 771012", "223 Cal.App.3d 397", "23 F.3d 412", "235 F.3d 629", "250 B.R. 298", "273 Cal.Rptr. 7", "355 U.S. 41", "38 U.S.C. § 1701", "42 C.F.R. § 411.50", "42 C.F.R. §§ 411.21", "42 U.S.C. § 1395", "42 U.S.C. § 2651", "471 U.S. 1113", "473 U.S. 207", "478 U.S. 265", "5 U.S.C. § 8901", "526 U.S. 629", "529 U.S. 120", "606 F.2d 1251", "745 F.2d 1500", "76 Stat. 593", "86 L.Ed.2d 255", "899 F.2d 1483", "999 F.2d 581"]
+cites_cases: ["105 S.Ct. 2353", "116 F.Supp.2d 116", "116 F.Supp.2d 131", "130 F.Supp.2d 96", "16 F.3d 1271", "1996 WL 862610", "2001 WL 283163", "2001 WL 771012", "223 Cal.App.3d 397", "23 F.3d 412", "235 F.3d 629", "273 Cal.Rptr. 7", "355 U.S. 41", "42 C.F.R. § 411.50", "42 C.F.R. §§ 411.21", "471 U.S. 1113", "473 U.S. 207", "478 U.S. 265", "526 U.S. 629", "606 F.2d 1251", "745 F.2d 1500", "86 L.Ed.2d 255"]
 ---
 
 # United States v. Philip Morris Inc.

@@ -1,0 +1,21 @@
+---
+court: "United States Circuit Court of the District of Columbia"
+decided: "1810-11"
+citations: ["12 F. Cas. 3", "2 Cranch, C. C. 12"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(THEUSTUN, Circuit Judge,"]
+parties: ["HERBERT v. BANNATYNE et al."]
+source_url: "https://static.case.law/f-cas/12/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6582335
+---
+
+# Herbert v. Bannatyne
+
+## Majority (THE COURT)
+
+THE COURT
+(THEUSTUN, Circuit Judge,
+.absent) decided that W. Wilson was not a competent witness.

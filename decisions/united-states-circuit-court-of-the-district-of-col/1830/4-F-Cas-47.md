@@ -1,0 +1,21 @@
+---
+court: "United States Circuit Court of the District of Columbia"
+decided: "1830-05"
+citations: ["4 F. Cas. 47", "4 Cranch, C. C. 15"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRECKENRIDGE v. PETER."]
+source_url: "https://static.case.law/f-cas/4/cases/0047-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6097518
+cites_cases: ["1 Hen. & M. 4", "1 Johns. Ch. 14", "1 Johns. Ch. 49", "3 Hen. & M. 89", "8 Mass. 455"]
+---
+
+# Breckenridge v. Peter
+
+## Majority (CRANCH, Chief Judge)
+
+CRANCH, Chief Judge
+(MORSELL, Circuit Judge, not sitting). This is a bill for an injunction to stay proceedings on a judgment at law obtained by the defendants against the plaintiff, as executor of James White upon a bond dated 2d September, 1795, given for principal and compound interest upon a former bond dated 27th May, 1789, for £892. 9s. lid. sterling, payable on demand with lawful interest from the date. The bill avers that compound interest was charged upon the £S92. 9s. lid. sterling; several payments having been made from time to time; some of them not amounting to the interest due at the time of such payments; and that since the bond of September 2d, 1795, sundry payments were made by the complainant. That upon the trial of the suit at law upon that bond, the present complainant “not being able to prove the.omission of the credit or the usurious mode of calculating the interest on the said bonds in any other way than by the oath of the plaintiffs at law, and the books of the said Robert Peter, a verdict was rendered against him for $897.07, with interest from 1st of January, 1803, till paid and costs of suit,” which judgment was af-terwards superseded by the complainant The defendants, in their answer, deny that they have any knowledge or belief of any credits not given; and aver that the question of interest was settled at the trial at law. The injunction was dissolved in 1826, and the bill continued; and the cause has now come on to be heard upon the bill, answer, and general replication, exhibits, and depositions taken under the commission.
+The bill, although it alleges the imbecility and intemperate habits of James White, does not contain such an allegation of fraud as will authorize the court to grant relief upon that ground, even if it were made out in proof; but it is not. The only questions remaining are, 1st, whether the transaction be usurious; and, if usurious, whether this court can give relief, upon that ground, after the trial, at law, of the same question; and 2d, whether there has been a mistake made in ascertaining the amount due, for which the bond, of the 2d of September, 1795, was given. The question of usury was tried and settled in the suit at law; and I apprehend it is too late, after the trial at law, to allege such a defect of evidence as would have been the ground of a bill of discovery. A bill for discovery is an ancillary process, and • not for original relief. In order to obtain ultimate relief in equity, there must be other ground than the mere defect of evidence in an action at law. There is no evidence of mistake of fact in the ascertainment of the sum for which the bond of the 2nd of September, 1795, was given. The complainant has himself, produced a statement, made by Colonel Thompson at the time, which shows exactly the manner in which the parties came to the result; which statement was furnished to Mr. White some months before the bond was given. The bond, therefore, cannot be impeached on the ground of mistake. We think, therefore, that the bill must-be dismissed with costs.

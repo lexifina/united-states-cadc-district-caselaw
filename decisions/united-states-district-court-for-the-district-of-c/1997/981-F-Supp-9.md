@@ -1,0 +1,54 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 96-2472(JR)"
+decided: "1997-10-14"
+citations: ["981 F. Supp. 9"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard J. HARLEY and RJH and Company, Inc. Plaintiffs, v. Bruce LEHMAN, Commissioner of Patents and Trademarks, Defendants."]
+source_url: "https://static.case.law/f-supp/981/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1140495
+cites_cases: ["107 S.Ct. 421", "35 Stat. 246", "35 U.S.C. § 103", "35 U.S.C. § 151", "37 C.F.R. § 1.313", "408 U.S. 564", "424 U.S. 319", "426 U.S. 941", "466 F.Supp. 965", "479 U.S. 939", "49 L.Ed.2d 394", "517 U.S. 370", "52 F.3d 967", "541 F.2d 1", "66 Stat. 792", "756 F.2d 852", "79 Stat. 284", "790 F.2d 925", "834 F.2d 191", "93 L.Ed.2d 372", "96 S.Ct. 2662"]
+cites_law: ["united-states/federal/usc/title-35/103.md", "united-states/federal/usc/title-35/151.md", "united-states/federal/usc/title-35/282.md"]
+---
+
+# Harley v. Lehman
+
+## Majority (ROBERTSON, District Judge.)
+
+MEMORANDUM
+ROBERTSON, District Judge.
+Plaintiffs application for a patent was approved by the Patent & Trademark Office (“PTO”), but “withdrawn from issue.” In this action, plaintiff complains that the PTO’s withdrawal action was unlawful and that the regulations under which the PTO acted are contrary to the governing statute. Plaintiff also appeals the final action of the PTO’s Board of Appeals on the merits of his patent application. Now before the court is defendant’s motion to dismiss or for partial summary judgment as to plaintiffs Administrative Procedure Act (“APA”) and due process claims (Counts I-III).
+Facts
+On August 15, 1989, Richard J. Harley filed a patent application for a procedure entitled “Method for In Vivo Inactivation of Blood Borne Infections Using a Mixture of Ozone and Oxygen.” The procedure involves removing blood from the human bloodstream, infusing it with a combination of ozone and oxygen, and replacing it. On February 4, 1992, the PTO issued Harley a “Notice of Allowance and Issue Fee Due” pursuant to 35 U.S.C. § 151 (1996). On May 4, 1992, Harley paid the patent fee. A patent was then duly created (Certificate of Letters Patent No. 5,133,975). The Seal of the Patent and Trademark Office and the signatures of the appropriate officials were affixed. The patent was to issue on July 28,1992.
+Pre-issuance proceedings of the patent office are not a matter of public record. But, on April 21, 1992, plaintiff sent a “threat” letter to a competitor, stating (falsely) that he had been issued a patent for his ozone-oxygenation therapy. Def. Brief Ex. A6. The competitor, Dr. Robert Mayer, responded on May 5 by sending letters to both Harley and the PTO citing to preexisting patents for similar claims. Def. Brief Ex. A8.
+On July 23, 1992, five days before the 975 patent was to issue, the director of the responsible patent examining group sent a memorandum to the PTO’s Office of Publications requesting that Harley’s patent be withdrawn from issue because new art had been submitted in a protest. The next day, July 24, plaintiffs patent was withdrawn from issue.
+The Patent Act provides that
+If it appears that applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee or a portion thereof, which shall be paid within three months thereafter.
+Upon payment of this sum the patent shall issue ....
+35 U.S.C. § 151 (1992) (emphasis added). The PTO’s regulations provide that “[wjhen the issue fee has been paid, the application will not be withdrawn from issue for any reason except ... (3) Unpatentability of one or more claims.” 37 C.F.R. § 1.313(b)(3) (1992).
+By letter dated January 8, 1993, the Commissioner rejected plaintiffs patent claims. Plaintiffs appeal from that rejection was decided by the PTO’s Board of Appeals on August 28, 1996, under 35 U.S.C. § 103 (providing that a patent may not be obtained if it deviates in only an obvious and predictable way from prior art). Def. Brief Ex. A17-18.
+Plaintiff then brought this action, asserting that the Commissioner lacked statutory authority to withdraw the patent from issue and that his actions were “arbitrary and capricious actions designed to deny to Plaintiffs [Harley and his company] due process to the equal and same extent afforded to others.” Complaint ¶ 47. Plaintiff demands declaratory and injunctive relief.
+Analysis
+Plaintiffs due process claim can be dealt with at the threshold and must be dismissed: Plaintiff does not argue that the PTO’s procedures do not measure up to the due process standards set forth in Mathews v. Eldridge, 424 U.S. 319, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976). Even if he did make such an argument, plaintiff could not successfully argue that he has a property pre-issuance. See, e.g., Board of Regents v. Roth, 408 U.S. 564, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972).
+Plaintiffs APA claims are (1) that the Patent Commissioner’s withdrawal of the patent from issue was arbitrary and capricious, and
+(2)that the regulations governing patent withdrawal are contrary to the governing statute.
+1. The Commissioner’s withdrawal action.
+Agency action will only be reversed under the arbitrary and capricious standard if it lacks a rational basis. Ethyl Corp. v. EPA, 541 F.2d 1 (D.C.Cir.1976), cert. denied, 426 U.S. 941, 96 S.Ct. 2662, 2663, 49 L.Ed.2d 394 (1977). There was a record basis for the withdrawal action in this case. The Commissioner’s decision was unusual but hardly unreasonable. It would be contrary to sound public policy for the PTO to issue a patent in the face of citations of prior art, especially because once a patent has issued, the presumption of validity attaches. 35 U.S.C. 282 (1992).
+The procedure used to withdraw the patent—a protest submission by a third party, followed promptly by a letter from the Patent Commissioner to plaintiff—comported with the PTO’s method for dealing with protests, reexaminations, and challenges. PTO reexamination proceedings are conducted ex parte after the reexamination requestor has submitted a reply, and final decisions are rendered by the Patent Commissioner, without a hearing and without formal notice requirements. See, e.g., 37 C.F.R. 1.5550(e) (1992); id, at § 1.501(c)' (requiring a third party who brings prior art to the Patent Commissioner’s attention after a patent has issued either to serve the patent holder with the prior art or to file a duplicate copy with the PTO). It was neither arbitrary nor capricious for the Patent Commissioner to withdraw the patent before its issuance date in order to consider further the relevant prior art that had been submitted.
+2. The PTO regulations
+Plaintiffs second argument attacks the PTO regulations under which the Commissioner acted, 37 C.F.R. § 1.313(b)(3). The argument is that the plain language of 35 U.S.C. § 151—providing that “the patent snail issue” once the fee is paid—makes the issuance of a patent after written notice of allowance and after payment of the fee a purely ministerial act.
+Chevron deference is due an agency’s interpretation of the statute it is charged with administering if the statute is ambiguous: if it does not speak directly to the issue before the agency, Investment Co. Inst. v. Conover, 790 F.2d 925, 935 (D.C.Cir.), cert. denied, 479 U.S. 939, 107 S.Ct. 421, 93 L.Ed.2d 372 (1986); and if the agency’s interpretation is reasonable, National Labor Relations Bd. Union v. Federal Labor Relations Auth., 834 F.2d 191, 199 (D.C.Cir.1987).
+The first element of the Chevron test is easily met because the situation that was presented in this ease—the submission of a protest containing prior art during the small window of time between the applicant’s payment of the issue fee and the issuance of the patent—is not addressed by § 151. As to the reasonableness of the PTO’s interpretation: The first sentence of the code section begins with the words, “If it appears that applicant is entitled to a patent under the law....” These words may not be, grammatically speaking, a preamble that modifies the rest of § 151, but they do establish the PTO’s duty to ensure that the patents it issues are valid. See In re Etter, 756 F.2d 852 (Fed.Cir.1985).
+Section 151 or its predecessor statutes have contained the “shall issue” language since 1908. Pub. Law No. 89-83, 79 Stat. 284 (1965); Pub. Law No. 593, 66 Stat. 792, 803 (1952); Act of May 23, 1908, ch. 189, 35 Stat. 246. Throughout this time period, the PTO has had in effect rules permitting the withdrawal of patents from issue after the payment of the issue fee where there was a mistake, fraud or illegality. 37 C.F.R. 1.313 (1973-1996); Rules of Practice of the United States Patent Office in Patent Cases § 313 (1949-1972); Rules of Practice in the Patent Office § 166 (1888-1948). The grant of a patent is only a ministerial act after the statutory requirements for the patent are met. Markman v. Westview Instruments, Inc., 52 F.3d 967, 985 n. 14 (Fed.Cir.) (interpreting § 151), ajfd, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996).
+The PTO’s adoption of 37 C.F.R. § 1.313(b), allowing patents to be withdrawn from issue under certain narrow circumstances not directly covered by the statute, was not unreasonable.
+* * * * *
+An appropriate order accompanies this memorandum.
+For the reasons set forth in the accompanying memorandum, it is this 14th day of October, 1997,
+ORDERED that defendant’s motion to dismiss or for -partial summary judgment [# 7] is granted. Plaintiff’s claims arising under the Due Process Clause are dismissed. Defendant’s motion as to plaintiff’s Administrative Procedure Act claims is treated as a motion for summary judgment, and summary judgment is granted. It is
+FURTHER ORDERED that within 30 days of the entry of this order, the parties shall file any additional motions or a status report.
+. The motion does not address Count V, which is plaintiffs claim for APA review of the merits of the decision to reject plaintiff's patent claim. Plaintiff has voluntarily dismissed Count IV of his complaint, which was his claim of a violation of the Takings Clause of the Fifth Amendment.
+. The withdrawal was too late to stop the publication of notice in the Official Gazette of the Patent and Trademark Office that a patent had been issued. Complaint Ex. B.
+. Plaintiff's reliance on Sampson v. Dann, 466 F.Supp. 965 (D.D.C.1978) is misplaced. In Sampson, the court ordered the Commissioner to issue a patent to a plaintiff who had been in litigation with the PTO for 10 years, despite the fact that a protest had been submitted at the last minute. The regulation at issue in this case had not yet been enacted when Sampson was decided.

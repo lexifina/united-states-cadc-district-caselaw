@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "CR. 98-0057(PLF)"
+decided: "2002-06-04"
+citations: ["207 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America, v. Maria HSIA, Defendant."]
+source_url: "https://static.case.law/f-supp-2d/207/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9407492
+---
+
+# United States v. Hsia
+
+## Majority (PAUL L. FRIEDMAN, District Judge.)
+
+ORDER
+PAUL L. FRIEDMAN, District Judge.
+Defendant Maria Hsia has filed an emergency motion for reconsideration of this Court’s May 13, 2001 Order denying the motion to extend the stay of the execution of her sentence or, in the alternative, for permission to travel out of the country prior to the beginning of her period of home detention. The government has filed a response to defendant’s emergency motion, and, defendant has filed a reply. Upon consideration of the arguments of the parties and the entire record in this case, the Court denies defendant’s .emergency motion.
+With respect to the first part of defendant’s motion — reconsideration of the Court’s,May 13, 2001 Order — the government has indicated that it opposes this request. In her emergency motion for reconsideration, defendant presents essentially the same arguments that the Court already has rejected and has not provided any .persuasive reason why the Court now; should reverse its earlier decision. The Court therefore denies the motion for reconsideration.
+In the second part of defendant’s motion, she seeks the Court’s permission to travel to attend to business matters in China. She requests that Court, order that her term of home detention with electronic monitoring not begin until July 1, 2002, allowing her time to wrap up her business affairs in China. The' government indicates in its response that the United States Probation Office for the Central District of California, which now is supervising Ms. Hsia and will continue to supervise her probation and home detention, opposes the request for foreign travel. The government is equivocal with respect to defendant’s request for permission to travel. On the one hand, the government recognizes that “the need to wrap up important business before commencement of home monitoring is a strong practical ground for travel.” Government’s Response to Def.’s Emergency Mot. for Reconsideration at 4. The government also contends, however, that the defendant has had ample time to attend to her business in China in anticipation of her sentence and that the Court should not permit further delay. Furthermore, because defendant’s probation has begun, allowing her to travel — in effect suspending her probation for a month — would undermine the purpose to be served by the Court’s sentence. Ultimately, the government has’ decided that “it is appropriate to defer to the Court for its decision and further guidance in this matter.” Id. at 5.
+Defendant’s conviction was affirmed by the court of appeals on December 11, 2001 — almost six months ago. Her petition for rehearing and for rehearing en banc was denied by the court of appeals on February 15, 2002 — almost four months ago. Defendant then filed a motion in the court of appeals to stay the mandate which was denied on March 18, 2002. The mandate finally issued on April 3, 2002. Between the time when the court of appeals affirmed her conviction and the issuance of the mandate, defendant has had four months to wrap up her business in China — a process that she should have begun as soon as the conviction was affirmed — in anticipation of serving her sentence in this case. Moreover, even after the mandate was issued, defendant was in China as recently as the early part of May 2002, returning to the United States on May 18, 2002. If defendant operated under the assumption that the court of appeals would stay the issuance of the mandate or that this Court would grant her motion to stay the execution of her sentence, her assumption was ill-advised and unwarranted. Moreover, regardless of what defendant believed the court of appeals or this Court might do, she has had more than enough time to take care of her business in China. This Court already has shown defendant considerable leniency prior to the execution of her sentence and, given the current procedural posture of the case, the Court will not permit further delays in the execution of defendant’s sentence.
+Based on the information provided to the Court, defendant now is being supervised by the United States Probation Office for the Central District of California and has begun serving her term of probation. The Probation Office in California apparently is trying to work with defendant to determine precisely when and where she will serve her 90-day term of home detention with electronic monitoring, and the Court has been informed that the Probation Office in California will be able to begin electronic monitoring this week. Because defendant already is serving her term of probation and the Probation Office in California is ready to begin monitoring her term of home detention, the Court concludes that further delay defendant’s sentence should not be permitted. Accordingly, it is hereby
+ORDERED that defendant’s Emergency Motion for Reconsideration of Order Denying Motion to Extend Stay of Execution of Sentence or, in the Alternative, for Permission to Travel is DENIED.
+SO ORDERED.

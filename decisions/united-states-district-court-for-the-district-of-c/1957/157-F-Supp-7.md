@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civ. A. No. 307-56"
+decided: "1957-12-13"
+citations: ["157 F. Supp. 7"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph H. ISENSTEAD, Plaintiff, v. Robert C. WATSON, Commissioner of Patents, Defendant."]
+source_url: "https://static.case.law/f-supp/157/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4287681
+cites_cases: ["243 F. 611", "35 U.S.C. § 101", "35 U.S.C. § 145"]
+cites_law: ["united-states/federal/usc/title-35/101.md", "united-states/federal/usc/title-35/145.md"]
+---
+
+# Isenstead v. Watson
+
+## Majority (HOLTZOFF, District Judge.)
+
+HOLTZOFF, District Judge.
+This is an action against the Commissioner of Patents under 35 U.S.C. § 145, formerly Revised Statutes § 4915, to secure an adjudication that the plaintiff is entitled to a patent on an application that the Commissioner of Patents has rejected. The application relates to a medical compound for the purpose of testing the function of the human liver.
+Although several claims were contained in the application, only Claim 2 is now being pressed. Claim 2 covers a composition of matter adapted to shift blood proteins, consisting of three different substances. The quantity of each ingredient to be used in making the composition is also specified in the claim. In view of the fact that on the plaintiff’s motion this case has been tried in camera, the Court in this decision will not mention either the names of the ingredients or the composition or the specific quantities named in the claim.
+The application was rejected on two grounds. The first ground is that the invention was disclosed in a printed publication more than a year previously to the filing of the application and that therefore this disclosure constitutes a bar to the granting of the patent. The plaintiff counters by saying that the list of ingredients of the composition is not the same in the prior publication as the list contained in the specification and the claim in the application in this case. There is some basis for this contention. The plaintiff further contends that the earlier disclosure does not set forth the quantities or proportions of the various ingredients, while the specification and Claim 2 in the case at bar disclose these proportions and quantities precisely. It is urged that these quantities and proportions are vital and critical and are not taken haphazardly or at random. The specification, however, does not reveal to what extent or in what manner the particular quantities and proportions are critical or what would happen if they were varied. The plaintiff contends that the claim is patentable over the prior disclosure because of the distinctions which are pointed out. In the view that this Court takes of this case, however, it is not necessary to determine that issue, and the Court will pass on to the second ground of rejection, namely, lack of utility.
+It is fundamental that a patent may be granted only on a new and useful process, machine, manufacture, or composition of matter, 35 U.S.C. § 101. In other words, there must be both novelty and utility as a basis for the granting of a patent. “Utility” is a broad term and implies among other things capacity to perform the function or to attain the result claimed by the applicant in his disclosure. For example, in the case of Besser v. Merrilat Culvert Core Co., 243 F. 611, 612, decided by the Eighth Circuit, it was held that:
+“The term ‘useful,’ as contained in the patent law, when applied to a machine, means that the machine will accomplish the purpose practically when applied in industry.”
+This Court is of the opinion that the same test of utility should be applied to a composition of matter. In other words, will the invention attain the purpose and will it operate as disclosed and claimed by the inventor ?
+In this case the Examiner of the Patent Office held that the proof of utility was inadequate and insufficient. His decision was affirmed by the Board of Appeals of the Patent Office. This Court in a technical matter such as this should not lightly set aside the decision of the Patent Office. Moreover, an independent examination by the Court of the affidavits submitted as proof of utility leads the Court to concur in the view of the Patent Office that the number of cases tested and the results obtained are not sufficient to justify an affirmative finding of utility. It must be borne in mind in this connection that the burden is on the applicant for a patent to prove that he is entitled to it, and therefore the onus is on him to show that the invention will operate as disclosed in the application and will achieve its objective.
+Great care and scrutiny should be particularly taken in connection with applications for medical patents. While the granting of a patent does not legally constitute a certificate that the medicine to which it relates is a good medicine and will cure the disease or successfully make the test which it was intended to do, nevertheless, the granting of such a patent gives a kind of official imprimatur to the medicine in question on which as a moral matter some members of the public are likely to rely. In view of these circumstances, it is right and proper that the Patent Office should be very careful and perhaps even reluctant to grant a patent on a new medical formula until it has been thoroughly tested and successfully tried by more than one physician. It seems to the Court that therefore the Patent Office, as a matter of public policy, followed a proper course in this matter.
+In the light of this discussion the Court will sustain the action of the Patent Office on the ground that utility of the invention has not been adequately and sufficiently shown. The Court will render judgment for the defendant, dismissing the complaint without prejudice, because the Court is of the opinion that its decision should not be res judicata against some future application if after further tests that are deemed adequate the utility of the compound is established.
+Counsel will please submit proposed findings of fact and conclusions of law.

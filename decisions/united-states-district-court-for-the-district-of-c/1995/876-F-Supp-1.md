@@ -1,0 +1,49 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civ. A. No. 92-2880"
+decided: "1995-02-09"
+citations: ["876 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN AKRIDGE COMPANY, Plaintiff, v. The TRAVELERS COMPANIES, Defendant."]
+source_url: "https://static.case.law/f-supp/876/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7840383
+cites_cases: ["256 Md. 717", "261 A2d 747", "28 U.S.C. § 1332", "477 A2d 726", "477 U.S. 242", "477 U.S. 317", "633 A2d 787", "777 F.Supp. 980", "813 F.2d 1236", "816 F.Supp. 765", "9 F.3d 150"]
+---
+
+# John Akridge Co. v. Travelers Companies
+
+## Majority (SPORKIN, District Judge.)
+
+MEMORANDUM OPINION AND ORDER
+SPORKIN, District Judge.
+Background
+This matter comes before the Court on defendant’s motion for summary judgement and plaintiffs cross motion for partial summary judgment. Plaintiff (JAC) seek collapse loss coverage for five parking garages in the District of Columbia under an insurance contract with the defendant. This Court has jurisdiction under 28 U.S.C. § 1332. There is complete diversity of citizenship between the parties and the amount in controversy is greater than $50,000.
+Analysis
+The first issue before the Court is how to interpret the language of the policy’s collapse loss provision. The construction of terms in an insurance contract like the one before this Court are matters of law to be determined by the Court. See American Red Cross v. Travelers Indem. Co., 816 F.Supp. 765, 758 (D.D.C.1993). There are no decisions in either the District of Columbia courts or in this Circuit that have addressed this question of construction.
+The insurance policy between plaintiff and defendant states:
+We will pay for loss or damage caused by or resulting from risks of direct physical loss involving collapse of a building or any part of a building caused only by one or more of the following:
+Plaintiffs have made clear that they are alleging only that parts of the garages have suffered collapse, not the whole buildings. Plaintiffs argue that collapse in this contract should be interpreted to mean “any serious impairment of structural integrity.” In contrast, defendants urge that the Court define collapse as “fall[ing] together or into an irregular mass or flattened form.”
+The Court finds that the collapse provision is ambiguous. While the plain meaning of the verb “to collapse” is to fall into rubble, the word in the contract is a noun. One definition of the noun in Webster’s New Third International Dictionary is “a breakdown in vital energy, strength or stamina.” According to this definition, a collapse need not connote a complete change in form or falling into rubble.
+When a provision is ambiguous, the Court must interpret the ambiguity against the insurance company that drafted the contract. See Meade v. Prudential Ins. Co. of America, 477 A2d 726, 728 (D.C.1984), Potomac Elec. Power v. California Union Ins. Co., 777 F.Supp. 980, 988 (D.D.C.1991). The Court therefore rejects the defendant’s argument that collapse must be interpreted to mean a falling into rubble.
+Although there is no applicable District of Columbia precedent on this issue, the Maryland courts have interpreted a nearly identical contract provision. In Government Employers Insurance Co. v. DeJames, the court held that “any serious impairment of structural integrity is a collapse within the policy coverage.” 256 Md. 717, 261 A2d 747, 751 (Md.1970). The District of Columbia Courts have held that Maryland’s law should be the most authoritative source when there are no applicable District precedents. See, e.g., In re C.A.P., 633 A2d 787, 790 (D.C. 1993). With this in mind, the Court can find no reason not to adopt the sound reasoning of the DeJames opinion.
+The defendant has argued that even if the Court adopts the Maryland definition of collapse, DeJames also requires that a collapse be sudden and render the building in question, or parts thereof, unsuitable for intended use. In DeJames, the collapse was sudden and did render the insured house unsafe for use. The DeJames Court did not, however, hold that these two factors were necessary to a finding of collapse in a similar policy.
+The second question facing this Court is whether any or all of the garages have suffered partial collapse under the standard set forth above. Both plaintiff and defendant have moved the Court to decide the issue of liability on summary judgment.
+Pursuant to Federal Rule of Civil Procedure 66(c), summary judgment “shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, together with affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.” Mere allegations or denials of the adverse party’s pleadings are not enough to prevent issuance of summary judgment. The adverse party’s response to the summary judgment motion must “set forth specific facts showing that there is a genuine issue for trial.” Fed.R.Civ.Pro. 56(e).
+The Supreme Court set forth the governing standards for issuance of summary judgment in Celotex Corp. v. Catrett, 477 U.S. 317, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986). In Celotex, the Supreme Court recognized the vital need for summary judgment motions to the fair and efficient functioning of the justice system:
+Summary judgment procedure is properly regarded not as a disfavored procedural shortcut, but rather as an integral part of the Federal Rules as a whole, which are designed “to secure the just, speedy and inexpensive determination of every action.” Fed. Rule Civ.Proc. 1-
+Rule 56 must be construed with due regard not only for the rights of persons asserting claims and defenses that are adequately based in fact to have those claims and defenses tried to a jury, but also for the rights of persons opposing such claims and defenses to demonstrate in the manner provided by the Rule, prior to trial, that the claims and defenses have no factual basis.
+Id. at 327, 106 S.Ct. at 2555. (citation omitted).
+The non-moving party, is “required to provide evidence that would permit a reasonable jury to find” in its favor. Laningham v. U.S. Navy, 813 F.2d 1236, 1242 (D.C.Cir.1987) (per curiam) (citing Celotex, supra). The moving party is entitled to summary judgment where “the non-moving party has failed to make a sufficient showing on an essential element of her case with respect to which she has the burden of proof.” Celotex, 477 U.S. at 323, 106 S.Ct. at 2553. Any factual assertions contained in affidavits and other evidence in support of the moving party’s motion for summary judgment shall be accepted as true unless the facts are controverted by the non-moving party through affidavits or other documentary evidence. See Local Rule 108(h).
+In resolving the summary judgment motion, all reasonable inferences that may be drawn from the facts placed before the court must be drawn in favor of the non-moving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 2514, 91 L.Ed.2d 202 (1986). The inferences, however, must be reasonable, and the non-moving party can only defeat a motion for summary judgment by responding with some factual showing to create a genuine issue of material fact. Harding v. Gray, 9 F.3d 150, 154 (D.C.Cir.1993).
+This Court does not find that the record before it allows it to decide the issue in favor of either party on summary judgment. Plaintiff has included the affidavit of its expert, Allyn Kilsheimer, who states that there is “a serious impairment of structural integrity” in parts of the garages and that “those parts containing the impairments are no longer capable of safely supporting those parts.” But plaintiffs own response to defendant’s interrogatories states, “those parts ... have a serious impairment of structural integrity of safely performing their structural function even though there is currently not an unsafe conditions in such parts." (emphasis added) Defendant’s expert examined all the garages and did structural tests on the garage that appeared to be in the worst condition. His affidavit states that “there were no inadequacies due to deterioration of the structure,” and that “deterioration had not caused a decrease in serviceability of the parking garage.”, Defendant has also stated, and plaintiff has not denied, that no part of any of the garages has been closed to parking. ■
+The plaintiffs own submissions are contradictory enough to raise issues of material fact as to whether any parts of the garages have suffered a “serious impairment of structural integrity.” The affidavit of defendant’s expert creates further disputes about questions of material fact that cannot be resolved at the summary judgment stage. These questions must be resolved at trial.
+In discussing the possibility of trial at the end of the January 31, 1995 hearing, plaintiffs lawyer stated that he was insisting on a jury trial and that such a request was in his complaint. This Court finds no such request in either plaintiffs original complaint or its amended complaint. Accordingly, a trial on this' matter will be before the Court without a jury. An appropriate order follows.
+ORDER
+Having considered the submissions and arguments of the parties, the Court hereby ORDERS, for the reasons set forth above, that defendant’s motion for summary judgment be DENIED. It is further
+ORDERED that plaintiffs motion for partial summary judgment be DENIED. It is further
+ORDERED that the parties be in Court for a status conference on Friday, February 24, 1995 at 10:00 a.m. It is further
+ORDERED that because no formal demand for a jury trial has been made, the case will be tried to the Court.
+. JAC is seeking over $2 million for all five buildings.

@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "CIV.A. 99-2311(JR)"
 decided: "2004-08-30"
-citations: ["368 F. Supp. 2d 1", "368 F. Supp. 2d 9"]
+citations: ["368 F. Supp. 2d 1"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"

@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "98-0057 (PLF)"
 decided: "2000-02-04"
-citations: ["87 F. Supp. 2d 10", "87 F. Supp. 2d 20"]
+citations: ["87 F. Supp. 2d 10"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"

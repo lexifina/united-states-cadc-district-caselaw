@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "CIV.A.99-2010(CKK)"
 decided: "2001-02-16"
-citations: ["158 F. Supp. 2d 8", "158 F. Supp. 2d 26"]
+citations: ["158 F. Supp. 2d 8"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["M. Dennis SCULIMBRENE, Plaintiff, v. Janet RENO, et al., Defendants."
 source_url: "https://static.case.law/f-supp-2d/158/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9491252
-cites_cases: ["113 F.Supp.2d 967", "125 F.3d 877", "132 F.3d 753", "145 F.3d 1369", "158 F.Supp.2d 1", "158 F.Supp.2d 8", "176 F.3d 552", "215 F.3d 20", "27 F.3d 635", "29 U.S.C. § 701", "355 U.S. 41", "366 F.2d 649", "376 U.S. 254", "383 U.S. 75", "388 U.S. 130", "390 U.S. 727", "40 F.3d 1119", "418 U.S. 323", "418 U.S. 683", "42 U.S.C. §§ 1985", "434 U.S. 575", "445 U.S. 136", "448 F.2d 1067", "455 F.2d 1287", "475 U.S. 574", "477 U.S. 242", "491 U.S. 440", "497 U.S. 1", "5 U.S.C. § 552", "523 U.S. 340", "547 F.2d 1329", "553 F.2d 220", "563 F.2d 343", "617 F.2d 605", "627 F.2d 1287", "639 F.2d 54", "705 F.2d 472", "74 F.3d 1296", "753 F.2d 1092", "762 F.2d 1038", "813 F.2d 1236", "817 F.2d 762", "820 F.2d 1038", "822 F.Supp. 6", "881 F.2d 1426", "909 F.2d 512", "909 F.2d 541", "924 F.2d 282", "961 F.Supp. 314", "971 F.Supp. 603", "995 F.2d 295", "997 F.2d 898"]
+cites_cases: ["132 F.3d 753", "158 F.Supp.2d 1", "176 F.3d 552", "27 F.3d 635", "29 U.S.C. § 701", "355 U.S. 41", "366 F.2d 649", "376 U.S. 254", "383 U.S. 75", "388 U.S. 130", "390 U.S. 727", "40 F.3d 1119", "418 U.S. 323", "42 U.S.C. §§ 1985", "455 F.2d 1287", "475 U.S. 574", "477 U.S. 242", "497 U.S. 1", "547 F.2d 1329", "553 F.2d 220", "563 F.2d 343", "617 F.2d 605", "627 F.2d 1287", "639 F.2d 54", "705 F.2d 472", "74 F.3d 1296", "753 F.2d 1092", "813 F.2d 1236", "817 F.2d 762", "820 F.2d 1038", "822 F.Supp. 6", "881 F.2d 1426", "909 F.2d 512", "961 F.Supp. 314", "995 F.2d 295"]
 ---
 
 # Sculimbrene v. Reno

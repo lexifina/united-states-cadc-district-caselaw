@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "CIV.A. 01-2537(ESH)"
 decided: "2005-10-27"
-citations: ["397 F. Supp. 2d 1", "397 F. Supp. 2d 6"]
+citations: ["397 F. Supp. 2d 1"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sonya MULDROW, Plaintiff, v. RE-DIRECT, INC., Defendant."]
 source_url: "https://static.case.law/f-supp-2d/397/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1304529
-cites_cases: ["110 F.R.D. 175", "123 F.Supp.2d 8", "135 F.3d 779", "136 F.3d 794", "172 F.Supp.2d 193", "181 F.3d 1342", "195 F.3d 654", "311 F.3d 425", "384 F.Supp.2d 75", "413 F.3d 86", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "461 U.S. 424", "465 U.S. 886", "475 U.S. 796", "488 U.S. 153", "489 U.S. 87", "491 U.S. 274", "57 F.3d 1101", "572 F.Supp. 354", "740 F.2d 195", "746 F.2d 4", "857 F.2d 1516", "878 F.2d 435", "905 F.Supp. 1122"]
+cites_cases: ["123 F.Supp.2d 8", "136 F.3d 794", "172 F.Supp.2d 193", "384 F.Supp.2d 75", "413 F.3d 86", "42 U.S.C. § 1988", "461 U.S. 424", "465 U.S. 886", "489 U.S. 87", "491 U.S. 274", "57 F.3d 1101", "572 F.Supp. 354", "746 F.2d 4", "857 F.2d 1516"]
 ---
 
 # Muldrow v. Re-Direct, Inc.

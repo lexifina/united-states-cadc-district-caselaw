@@ -1,0 +1,42 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 05-2176(PLF)"
+decided: "2007-01-11"
+citations: ["470 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D.D., a minor, by his parent and next friend Christine DAVIS, Plaintiff, v. DISTRICT OF COLUMBIA, et al., Defendants."]
+source_url: "https://static.case.law/f-supp-2d/470/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5875880
+cites_cases: ["190 F.Supp.2d 34", "20 U.S.C. § 1415", "2005 U.S. Dist. LEXIS 35699", "2005 WL 3276205", "447 F.3d 828"]
+---
+
+# D.D. ex rel. Davis v. District of Columbia
+
+## Majority (PAUL L. FRIEDMAN, District Judge.)
+
+MEMORANDUM OPINION AND ORDER
+PAUL L. FRIEDMAN, District Judge.
+Rule 72(b) of the Federal Rules of Civil Procedure authorizes the referral of dis-positive motions to a magistrate judge for a report and recommendation. When a party files written objections to any part of the magistrate judge’s recommendation, the court considers de novo those portions of the recommendation to which objections have been made, and “may accept, reject, or modify the recommended decision[.]” Fed.R. CrvP. 72(b).
+Plaintiffs motion for summary judgment and defendants’ cross motion for summary judgment were referred to Magistrate Judge Deborah A. Robinson for a report and recommendation pursuant to Local Civil Rule 72. Magistrate Judge Robinson filed a Report and Recommendation on September 28, 2006 (“Report”). Defendants filed partial objections thereto on October 16, 2006 (“Obj.”). Plaintiff responded on January 2, 2007 (“Reply”). Upon careful consideration of the Report and Recommendation and the objections and responses filed by the parties, the Court adopts the Report and Recommendation of Magistrate Judge Robinson, grants plaintiffs motion for summary judgment in part and denies it in part, and grants defendants’ motion for summary judgment in part and denies it in part. It does so substantially for the reasons stated by Magistrate Judge Robinson.
+Under the Individuals with Disabilities Educational Improvement Act (“ID-EIA”), plaintiffs in certain circumstances have a right to counsel, 20 U.S.C. § 1415(h)(1), and to attorneys’ fees if they are the prevailing party. See 20 U.S.C. § 1415(i)(3)(B); see also Johnson v. District of Columbia, 190 F.Supp.2d 34, 40 (D.D.C.2002); cf. LeSesne v. District of Columbia, 2005 WL 3276205 (D.D.C. July 26, 2005), aff'd on other grounds, 447 F.3d 828 (D.C.Cir.2006). The parties in this matter disagree regarding whether or not attorneys’ fees may be discussed and, if appropriate, resolved, at the resolution session described in 20 U.S.C. § 1415(f)(l)(B)(i). See Obj. at 4-6; Reply at 4. This section of the IDEIA provides that:
+[p]rior to the opportunity for an impartial due process hearing under subpara-graph (A), the local educational agency shall convene a meeting with the parents and the relevant member of members of the IEP Team who have specific knowledge of the facts identified in the complaint—
+(I) within 15 days of receiving notice of the parents’ complaint;
+(II) which shall include a representative of the agency who has decisionmaking authority on behalf of such agency;
+(III) which may not include an attorney of the local educational agency unless the parent is accompanied by an attorney; and
+(IV) where the parents of the child discuss their complaint, and the facts that form the basis of the complaint, and the local educational agency is provided the opportunity to resolve the complaint, unless the parents and the local educational agency agree in writing to waive such meeting, or agree to use the mediation process described in subsection (e).
+20 U.S.C. § 1415(f)(l)(B)(i).
+It is undisputed that attorneys’ fees for time actually spent at a resolution session pursuant to 20 U.S.C. § 1415(f)(l)(B)(i) generally are not compensable under the IDEIA. See 20 U.S.C. § 1415(i)(3)(D)(iii); see also Obj. at 4; Reply at 4. Nevertheless, if a settlement offer is rejected at the resolution session and the matter goes forward, a parent is still entitled to attorneys’ fees under the statute for time spent on behalf of the client before and after the resolution session if the parent ultimately is the prevailing party. See 20 U.S.C. § 1415(i)(3)(B); see also 20 U.S.C. § 1415(f)(3)(E) (“Notwithstanding subpar-agraph (D), an award of attorneys’ fees and related costs may be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.”)
+The Court writes only to emphasize that the provision of the IDEIA cited by the defendants does not preclude discussion of attorneys’ fees at the resolution session; it provides only that attorneys’ fees may not be awarded against the defendants for time spent attending such a meeting. See 20 U.S.C. § 1415(i)(3)(D)(iii). If defendants wish to use the resolution sessions to achieve complete resolution of all of the potential claims against them, including any attorneys’ fees for prevailing parties as provided for in the IDEIA—if such claims exist—they may do so. In this case, so long as the plaintiffs or their counsel in good faith believed that they were entitled to attorneys’ fees for work done prior to the resolution session, that was a proper subject for discussion and negotiation at the resolution session.
+It should go without saying, however, that attorneys may not act against the best interests of their clients in an attempt to win an award of attorneys’ fees from the defendants to which they might not otherwise be entitled. See, e.g., LeSesne v. District of Columbia, 2005 WL 3276205 at *7, 2005 U.S. Dist. LEXIS 35699 at *26-27; D.C. Rules of PROf’l CoNduct R. 1.3 (“A lawyer shall not intentionally [flail to seek the lawful objectives of a client through reasonably available means permitted by law and the disciplinary rules; or ... [prejudice or damage a client during the course of the professional relationship.”); D.C. Rules of PROf’l Conduct R. 3.2 (“In representing a client, a lawyer shall not delay a proceeding when the lawyer knows or when it is obvious that such action would serve solely to harass or maliciously injure another ... A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.”). Indeed, the IDEIA provides for an award of attorneys’ fees to a prevailing party who is a State educational agency or local educational agency "... against the attorney of a parent who continues to litigate after the litigation clearly became frivolous, unreasonable, or without foundation[,]” 20 U.S.C. § 1415(i)(3)(B)(i)(II), or “against the attorney of a parent, or against the parent, if the parent’s complaint or subsequent cause of action was presented for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation.” 20 U.S.C. § 1415(i)(3)(B)(i)(III).
+For the reasons set forth by Magistrate Judge Robinson in her Report and Recommendation, it is hereby
+ORDERED that the Court ADOPTS and APPROVES the Report and Recommendation [16] of Magistrate Judge Robinson; it is
+FURTHER ORDERED that plaintiffs motion for summary judgment [5] is granted in part, specifically “with respect to Count I of the complaint (hearing officer abused his discretion by his determination that the proposal offered by defendants at the resolution meeting resolved all of plaintiffs claims and that she was obligated to accept it),” Report at 17; it is
+FURTHER ORDERED that plaintiffs motion for summary judgment is denied with respect to Counts II and III of the Complaint, see Report at 17; it is
+FURTHER ORDERED that defendants’ motion for summary judgment [10] is granted in part, specifically with respect to Count II, see Report at 13; it is
+FURTHER ORDERED that Count III of the Complaint is dismissed as moot, see Report at 11; it is
+FURTHER ORDERED that this action is remanded for further administrative proceedings consistent with Magistrate Judge Robinson’s Report and this Memorandum Opinion and Order; and it is
+FURTHER ORDERED that the Clerk of the Court shall remove this case from the docket of the Court. This is a final appealable order. See Fed. R.App. P. 4(a). Any other pending motions are denied as moot.
+SO ORDERED.

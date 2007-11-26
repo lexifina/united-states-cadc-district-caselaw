@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 07-1878 (EGS)"
+decided: "2007-11-26"
+citations: ["527 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WARNER BROS. RECORDS INC., et al, Plaintiffs, v. DOES 1-6, Defendants."]
+source_url: "https://static.case.law/f-supp-2d/527/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4061718
+cites_cases: ["208 F.R.D. 273", "64 Fed. R. Serv.3d (Callaghan) 305", "809 F.2d 885", "917 F.Supp. 841"]
+---
+
+# Warner Bros. Records Inc. v. Does 1-6
+
+## Majority (EMMET G. SULLIVAN, District Judge.)
+
+MEMORANDUM OPINION
+EMMET G. SULLIVAN, District Judge.
+Pending before the Court is Plaintiffs’ Motion for Leave to Take Expedited Discovery. Upon review of the Motion and the applicable law, the Court GRANTS the motion.
+1. BACKGROUND
+Plaintiffs are record companies suing a series of John Doe defendants for copyright infringement. Plaintiffs request permission to serve limited, immediate discovery on Georgetown University, a third party internet service provider (“ISP”), in the form of a Rule 45 subpoena. Plaintiffs seek documents and electronically stored information sufficient to identify each defendant’s true name, current and permanent addresses and telephone numbers, email address, and Media Access Control (“MAC”) address.
+Plaintiffs allege that the Doe defendants used an online media distribution system (e.g., a peer-to-peer or “P2P” system) to download plaintiffs’ copyrighted works and/or distribute copyrighted works to the public without authorization. Pl.s’ Mot. at 2. Although plaintiffs do not know the true names of the Doe defendants, plaintiffs have identified each defendant by a unique Internet Protocol (“IP”) Address assigned to that defendant on the date and at the time of that defendant’s allegedly infringing activity. Id. Plaintiffs have identified the ISP that provided Internet access to each defendant by using a publicly available database. Based on that information, plaintiffs have determined that the ISP in this case is Georgetown University. Plaintiffs further represent that when given a defendant’s IP address and the time and date of infringing activity, an ISP can quickly and easily identify the name and address of the Doe defendant by referring to the ISP’s activity log files. Id. at 3. Without this information, plaintiffs aver they will be unable to prosecute their claims or protect their copyrighted works from future infringement. Id. at 7.
+II.STANDARD OF REVIEW
+Courts have wide discretion in discovery matters and have allowed parties to conduct expedited discovery where good cause is shown. Ellsworth Associates, Inc. v. U.S., 917 F.Supp. 841 (D.D.C.1996); See also Semitool, Inc. v. Tokyo Electron Am. Inc., 208 F.R.D. 273, 275-76 (N.D.Cal.2002). In similar copyright infringement cases brought by plaintiffs and other record companies against Doe defendants, courts have consistently granted plaintiffs’ motions for leave to take expedited discovery. See, e.g., Memorandum Opinion and Order, UMG Recordings, Inc. V. Does 1-199, No. 04-093(CKK) (D.D.C. March 10, 2004); Order, UMG Recordings v. Does 1-4, 64 Fed. R. Serv.3d (Callaghan) 305 (N.D.Cal. March 6, 2006).
+Because Georgetown University is an educational institution, the Family Educational Rights and Privacy Act (FER-PA), 20 U.S.C. 1232g, is implicated by this request. Under FERPA, information otherwise protected from disclosure may be released pursuant to a court order. General statutory bans on publication do not bar limited disclosure in judicial proceedings, including court-supervised discovery, so long as the party seeking discovery makes the requisite showing of relevance to the litigation under Federal Rule of Civil Procedure 26. Laxalt v. McClatchy, 809 F.2d 885, 889 (D.C.Cir.1987)(Holding that test of discoverability for materials protected by Privacy Act is relevance standard of Fed.R.Civ.P. 26).
+III.ANALYSIS
+The Court finds that plaintiffs have made a showing of good cause for the discovery they seek, as the information is not only relevant but crucial to the prosecution of plaintiffs’ claims. This litigation cannot go forward without the true identities of the defendants. Therefore, the Court GRANTS plaintiffs’ request for expedited discovery, subject to the following limitations.
+Plaintiffs may serve a Rule 45 subpoena upon Georgetown University to obtain the true identity of each Doe defendant. The subpoena must be limited to information sufficient to identify each defendant, including each defendant’s true name, current and permanent addresses and telephone numbers, email address, and Media Access Control (“MAC”) address. Any information disclosed to plaintiffs in response to the Rule 45 subpoena may be used by plaintiffs solely for the purpose of protecting plaintiffs’ rights as set forth in the complaint.
+The disclosure of this information is consistent with Georgetown University’s obligations under the Family Educational Rights and Privacy Act (FERPA). Though FERPA generally prohibits disclosure of certain records by federally-funded educational institutions, it expressly provides that protected information can be disclosed pursuant to a court order. 20 U.S.C. 1232g(b)(2)(B). If the John Doe defendants are Georgetown University students, FERPA requires that Georgetown University notify the student defendants prior to turning this information over to plaintiffs. Id. If and when Georgetown is served with a subpoena, it shall provide written notice to the Doe defendants within five business days. If Georgetown or any defendant wishes to move to quash the subpoena, that party must do so before the return date of the subpoena which shall be 25 days from the date of service. Georgetown University shall preserve any subpoenaed information pending the resolution of any timely filed motion to quash. Plaintiffs shall provide Georgetown University with a copy of this Memorandum Opinion and accompanying Order along with its subpoena.
+IV. CONCLUSION
+For the foregoing reasons, the plaintiffs’ Motion for Leave to Take Expedited Discovery is GRANTED. An appropriate Order accompanies this Opinion.
+. Sec. 1232(g)(b)(2)(B) requires that both the parents and the students "are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency.’’ However, Sec. 1232g(d) states, “[fjor the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of, and the rights accorded to, the parents of the student shall thereafter only be required of and accorded to the student.” Because Georgetown University is a postsecondary institution, notice to the students’ parents before compliance with the subpoenas is not required.

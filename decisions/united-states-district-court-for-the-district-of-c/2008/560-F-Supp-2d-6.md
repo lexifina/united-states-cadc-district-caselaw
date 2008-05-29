@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "Civil Action No. 93-452 (GK)"
 decided: "2008-05-29"
-citations: ["560 F. Supp. 2d 6", "560 F. Supp. 2d 9", "563 F. Supp. 2d 33", "560 F. Supp. 2d 13"]
+citations: ["560 F. Supp. 2d 6"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["Oscar SALAZAR, et al., Plaintiffs, v. DISTRICT OF COLUMBIA, et al., D
 source_url: "https://static.case.law/f-supp-2d/560/cases/0006-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4023389
-cites_cases: ["478 U.S. 546", "532 U.S. 598"]
 ---
 
 # Salazar v. District of Columbia

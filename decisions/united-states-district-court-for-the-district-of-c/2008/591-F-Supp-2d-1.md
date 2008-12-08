@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civ. No. 05-0765 (EGS)"
+decided: "2008-12-08"
+citations: ["591 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin Mohammed AL HABASHI, et al., Petitioners, v. George W. BUSH, et al., Respondents."]
+source_url: "https://static.case.law/f-supp-2d/591/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4017213
+cites_cases: ["128 S.Ct. 2229", "373 U.S. 503", "508 U.S. 602", "532 F.3d 834", "542 U.S. 507"]
+---
+
+# Al Habashi v. Bush
+
+## Majority (EMMET G. SULLIVAN, District Judge.)
+
+ORDER
+EMMET G. SULLIVAN, District Judge.
+Upon consideration of the Petitioner’s Motion to Compel and Proposed Discovery Schedule, the opposition thereto and reply in support thereof, and the arguments made by the parties in open court on December 1, 2008, it is hereby:
+ORDERED that the Petitioner’s motion is granted in part and denied in part. It is further
+ORDERED that by no later than December 11, 2008, the Respondent Secretary of Defense Robert M. Gates shall submit a sworn declaration that the Respondent has fully complied with (1) this Court’s Order of September 22, 2008, requiring Respondent to produce to Petitioner’s counsel, subject to any restrictions of the Protective Order in this case, all exculpatory information reasonably available to the United States Government that bears on Petitioner’s detention; and (2) this Court’s Order of October 30, 2008, requiring Respondent to produce to Petitioner’s counsel, subject to any restrictions of the Protective Order in this case, all exculpatory information reasonably available to the United States Government regarding the allegations withdrawn by Respondent on October 6, 2008 in paragraphs 56-78 of the Amended Factual Return; and (3) this Court’s Order of December 1, 2008 requiring Respondent to produce to Petitioner’s counsel, subject to any restrictions of the Protective Order in this case, any exculpatory evidence reasonably available to the United States Government that would suggest that Petitioner should not be designated as an enemy combatant. See Parhat v. Gates, 532 F.3d 834, 841 (D.C.Cir.2008) (citing the United States military’s definition of exculpatory information as “evidence to suggest that the detainee should not be designated as an enemy combatant.”) It is further
+ORDERED that by no later than December 11, 2008, the United States agent(s) who conducted the interviews with the Petitioner since he was brought into custody (the “interviewing agent”) upon which Respondent relies in its Amended Factual Return shall submit a sworn declaration describing the circumstances surrounding those interviews and the resulting statements by Petitioner. (See Parhat v. Gates, 532 F.3d 834, 847) (“As the Supreme Court explained in Concrete Pipe, in the course of discussing the nature of ‘the burden of showing something “by a preponderance of the evidence” ‘Before any such burden can be satisfied.in the first instance, the factfinder must evaluate the raw evidence, finding it to be sufficiently reliable and sufficiently probative to demonstrate the truth of the asserted proposition with the requisite degree of certainty.’ ”) (citing Concrete Pipe & Prods., Inc. v. Construction Laborers Pension Trust, 508 U.S. 602, 113 S.Ct. 2264, 124 L.Ed.2d 539 (1993)). See also Haynes v. Washington, 373 U.S. 503, 513, 83 S.Ct. 1336, 10 L.Ed.2d 513 (1963) (“ ‘In short, the true test of admissibility is that the confession is made freely, voluntarily, and without compulsion or inducement of any sort.’ ”... And, of course, “whether the confession was obtained by coercion or improper inducement can be determined only by an examination of all the attendant circumstances.”) (internal citations omitted). It is further
+ORDERED that Respondent shall make the interviewing agent(s) available for a deposition by the Petitioner’s' counsel, at a date mutually agreed upon by the parties, by no later than January 5, 2009. It is further
+ORDERED that, consistent with this Court’s “prudent and incremental” approach, on the one hand, and the Court’s recognition, on the other, that further delay cannot be tolerated, the Petitioner’s Proposed Discovery Schedule is denied without prejudice. See Hamdi v. Rumsfeld, 542 U.S. 507, 538-39, 124 S.Ct. 2633, 159 L.Ed.2d 578 (2004) (“We anticipate that a District Court would proceed with the caution that we have indicated is necessary in this setting, engaging in a fact-finding process that is both prudent and incremental. We have no reason to doubt that courts faced with these sensitive matters will pay proper heed both to the matters of national security that might arise in an individual case and to the constitutional limitations safeguarding essential liberties that remain vibrant even in times of security concerns.”) and Boumediene v. Bush, - U.S. -, 128 S.Ct. 2229, 2275, 171 L.Ed.2d 41 (“While some delay in fashioning new procedures is unavoidable, the costs of delay can no longer be borne by those who are held in custody. The detainees in these cases are entitled to a prompt habeas corpus hearing.”). It is further
+ORDERED that the parties shall file a status report by January 5, 2009 at noon. It is further
+ORDERED that a Status Conference shall be held on January 6, 2009 at 3:00 p.m.
+SO ORDERED.
+. To be clear, in this Court's view any information meeting the definition of exculpatory evidence used in Parhat v. Gates would be included in the Court’s September 22, 2008 Order to produce all exculpatory information reasonably available to the United States Government that bears on Petitioner’s detention. However, because counsel for the Respondent appeared to indicate during the hearing on December 1, 2008 that Respondent takes the position that it has complied with this Court’s September 22, 2008 but has perhaps not produced information falling within the Parhat definition, the Court will clarify for Respondent that it must produce all information meeting the Parhat definition of exculpatory evidence in order to comply with this Court's September 22, 2008 Order.

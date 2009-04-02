@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 08-1307"
+decided: "2009-04-02"
+citations: ["660 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amin AL BAKRI, et al., Petitioners, v. Barack H. OBAMA, et al., Respondents."]
+source_url: "https://static.case.law/f-supp-2d/660/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3782025
+cites_cases: ["553 U.S. 723", "559 F.3d 539", "604 F.Supp.2d 205"]
+---
+
+# Al Bakri v. Obama
+
+## Majority (JOHN D. BATES, District Judge.)
+
+ORDER
+JOHN D. BATES, District Judge.
+Before the Court is petitioner’s motion for his counsel to have access to respondents’ ex parte, classified filings. See dkt. ents. # 23, 31. Those filings, submitted at the Court’s request, include information regarding the number of detainees at Ba-gram Airfield in Afghanistan, how many of those detainees were captured outside Afghanistan, and how many are Afghan citizens. This information factored into the Court’s decision to deny respondents’ motion to dismiss this case, issued today. See Mem. Op., 604 F.Supp.2d 205, 220, 229 (D.D.C.2009) (redacted sections). Respondents oppose petitioner’s motion for access to the classified filings. Although counsel for petitioner, Ramzi Kassem, is security-cleared and has signed the government’s own nondisclosure agreement, see Declaration of Ramzi Kassem ¶¶ 4-5, respondents argue that a decision not to share classified information is committed to the discretion of the Executive.
+The D.C. Circuit has recently issued an opinion that specifically addresses a district court’s role in ordering the disclosure of classified information to counsel with an adequate security clearance. Al Odah v. United States, 559 F.3d 539 (D.C.Cir.2009). Under Al Odah, a district court “must determine that the information is both relevant and material” before compelling the disclosure of classified information. Id. at 544. Moreover, “counsel’s access to [classified information must be] necessary to facilitate meaningful review,” and the court must determine whether “alternatives to access would suffice.” Id. at 548.
+Applying Al Odah, Mr. Kassem is entitled to review the classified information submitted to date by respondents as well as the classified version of the Court’s memorandum opinion denying respondents’ motion to dismiss this case. In reaching its conclusion, the Court analyzed the reach of the Suspension Clause under Boumediene v. Bush, 553 U.S. 723, 128 S.Ct. 2229, 171 L.Ed.2d 41 (2008), which requires an assessment of the practical obstacles of providing habeas corpus review to determine whether the Suspension Clause may apply abroad. The Court has concluded that for some detainees, the practical obstacles of providing habeas review may be so great as to preclude, under the Boumediene balance of factors, invocation of the Suspension Clause. Moreover, the Court has differentiated between detainees captured within and beyond Afghan borders and between Afghan citizens and other detainees. The information respondents have provided in their classified filings has factored directly into those conclusions and qualifies as “material” under any interpretation of that standard — including the standard contemplated in Al Odah, 559 F.3d at 544-45 (explaining that information is material if it is “helpful”). Moreover, if respondents appeal this Court’s decision denying their motion to dismiss, the classified information will be “necessary to facilitate meaningful review.” Id. at 548, Counsel cannot realistically be expected to assist a court in conducting meaningful review if he does not have access to material facts. Finally, the classified Information is the number of Bagram detainees, the number of those detainees who are Afghan citizens, and how many were apprehended outside Afghanistan. Simply put, these are facts, and the Court can conceive of no “alternative to access” for security-cleared counsel like Mr. Kassem, nor have the parties proposed any such alternative.
+Hence, the Al Odah standard for compelling disclosure of classified information is satisfied. Accordingly, it is hereby ORDERED that petitioner’s motion is GRANTED. Respondents shall provide Mr. Kassem — by not later than April 9, 2009 — with access to the unredacted, classified filings that they filed ex parte with this Court on January 16, 2009 and March 10, 2009. Mr. Kassem is reminded of his obligations under the nondisclosure agreement — he may not share the classified information with petitioner, co-counsel, or anyone else lacking an appropriate security clearance and a “need to know.” Additionally, the Court instructs respondents to provide Mr. Kassem with access to the classified version of the Court’s memorandum opinion denying respondents’ motion to dismiss.
+SO ORDERED.
+. The proper classification of information is the province of the Executive. The Court observes, however, that it may be advisable for the Executive to review whether this basic factual information should continue to be classified at this time.
+. Only Mr. Kassem has filed a request for the classified information contained in respondents’ ex parte filings. Accordingly, the Court does not address whether counsel in other cases involving Bagram detainees may access the classified information. However, if other counsel can satisfy the Court that they have the appropriate security clearances and have executed the requisite nondisclosure agreements, then the Court anticipates that it would reach the same conclusion for them as for Mr. Kassem.

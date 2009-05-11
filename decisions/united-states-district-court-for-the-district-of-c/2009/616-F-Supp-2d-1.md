@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 04-2122 (GK)"
+decided: "2009-05-11"
+citations: ["616 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOE (P), Plaintiff, v. Hon. Leon E. PANETTA et al., Defendants."]
+source_url: "https://static.case.law/f-supp-2d/616/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4223107
+cites_cases: ["128 S.Ct. 2229", "2007 WL 106523", "2009 WL 1241609", "28 U.S.C. § 1346", "28 U.S.C. §§ 2671", "473 F.3d 370", "5 U.S.C. §§ 706", "535 F.3d 697", "601 F.Supp.2d 173", "689 F.2d 1100"]
+---
+
+# Doe (P) v. Panetta
+
+## Majority (GLADYS KESSLER, District Judge.)
+
+MEMORANDUM OPINION
+GLADYS KESSLER, District Judge.
+Plaintiff Doe, a former employee of the Central Intelligence Agency (“CIA”), brings this suit against Leon E. Panetta, Director of the CIA; the CIA; James Pavitt, CIA Deputy Director of Operations (“DDO”); and two Defendants Doe, whom Plaintiff identifies as current or former agents, officers and employees of the United States acting under color of Federal law. Plaintiffs true name and address are classified, and therefore he has been allowed to file as “Doe.”
+Plaintiff initially brought this action under the Privacy Act, 5 U.S.C. § 552a(g)(l), the Administrative Procedure Act (“APA”), 5 U.S.C. §§ 706(1) & (2)(A)-(D), the Little Tucker Act, 28 U.S.C. § 1346(a)(2), and the Federal Tort Claims Act (“FTCA”), 28 U.S.C. §§ 2671 et seq. On January 12, 2007, 2007 WL 106523, Defendant’s Motion to Dismiss was granted in part and denied in part [Dkt. No. 43]. The Court held that Counts I, III, and VI were precluded by the Civil Service Reform Act. On January 6, 2009, Defendant Pavitt’s Motion to Dismiss was granted, and the case was dismissed with prejudice as to Defendant Pavitt. Only Count II (Privacy Act claim) and Count V (Bivens claim) remain in the case.
+This matter is now before the Court on Plaintiffs Motion for Partial Judgment on the Pleadings [Dkt. No. 64]. Upon consideration of the Motion, Opposition, Reply, and the entire record herein, and for the reasons stated below, Plaintiffs Motion is denied.
+Defendants filed their Answer on February 28, 2007 [Dkt. No. 63]. Their Answer states that they need not respond to the redacted portions of the Second Amended Complaint because they contain classified information and that “[t]o the extent a response is required, Defendants can neither confirm nor deny the accuracy of the redacted allegations.” Answer at 4 n. 4.
+In his Motion, Plaintiff argues that Defendants’ Answer constitutes an admission of the redacted information and that Plaintiff is entitled to judgment on the pleadings as a result. Pl.’s Mot. at 2.
+In response, Defendants argue that they are not required to respond to “things that have been redacted from the Complaint” because they “are not part of the Complaint. They are, quite literally, not there.” Defs.’ Opp’n at 2. In the alternative, they argue that if an answer is required, the Glomar response is adequate. Id. at 5. Finally, Defendants argue that a judgment on the pleadings is appropriate only when claims made in the pleadings must be granted as a matter of law, and Plaintiff has not “articulated any claim upon which he is entitled to judgment on the pleadings.” Id. at 4.
+Neither side provides sufficient legal support for its position on whether a Glomar response applies outside the FOIA context. Defendants cite to no case holding that a Glomar response applies outside the FOIA context. Likewise, Plaintiff cites to no case holding that a Glomar response is limited solely to the FOIA context.
+In addition, Defendants are incorrect that their redactions of the Complaint bar this Court from considering Plaintiffs claims. This ease is not the first one involving highly-sensitive information to be considered by this Court. See, e.g., Mohammed Al-Adahi v. Barack H. Obama, No. 05-280 (D.D.C. filed Feb. 7, 2005) (involving five detainees at Guantanamo Bay and numerous classified filings). Nor is it the first time a district court has been asked to address delicate issues of national security. See Wilson v. Libby, 535 F.3d 697, 720 (D.C.Cir.2008) (Rogers, J., concurring in part and dissenting in part) (“[District courts are well-suited to protect secrets from unwarranted disclosures.”) (citing Boumediene v. Bush, — U.S. -, 128 S.Ct. 2229, 2276, 171 L.Ed.2d 41 (2008)). In other cases, this Court has required the government to submit documents in camera and has issued protective orders to protect sensitive information. See, e.g., Wright v. FBI, No. 02-915, 2009 WL 1241609, at *5 (D.D.C. May 6, 2009). Defendants have presented no reason that this case is substantially different from other sensitive cases that have come before the Court.
+Although Defendants are incorrect that they may effectively terminate a case by redacting the Complaint, judgment on the pleadings is not appropriate in this instance. A court may grant judgment on the pleadings if the movant shows that “no material fact is in dispute and that it is entitled to judgment as a matter of law.” Askew v. Meridian Imaging Solutions, Inc., 601 F.Supp.2d 173, 174 (D.D.C. Mar.4, 2009) (citing Fed.R.Civ.P. 12(c)).
+Here, Plaintiffs allegations have not been admitted. See Order (Jan. 29, 2009) [Dkt. No. 108] (denying Plaintiffs Motion to Find that All Material Redacted from his Complaints by Defendants on the Grounds that it is Classified Constitutes an Admission of its Truth for Purposes of this Litigation). Therefore, Plaintiff has not demonstrated that “no material fact is in dispute.” In addition, as the government correctly argues, judgment on the pleadings is appropriate only when the stated claims are sufficient as a matter of law, and Plaintiff has not provided evidence that demonstrates his claims are sufficient as a matter of law.
+For the reasons set forth above, Plaintiffs Motion for Partial Judgment on the Pleadings is denied without prejudice. An Order shall accompany this Memorandum Opinion.
+. As Defendants correctly argue, Plaintiff's Motion is "conceptually identical” to his Motion to Find that All Material Redacted from his Complaints by Defendants on the Grounds that it is Classified Constitutes an Admission of its Truth for Purposes of this Litigation [Dkt. No. 46], which was denied on January 29, 2009 [Dkt. No. 108].
+. In the FOIA context, an agency may use a Glomar response — "refus[ing] to confirm or deny the existence of records” — if answering the FOIA request would "cause harm cognizable under a FOIA exception." Wolf v. CIA, 473 F.3d 370, 374 (D.C.Cir.2007) (quoting Gardels v. CIA, 689 F.2d 1100, 1103 (D.C.Cir. 1982)).
+.Defendants cite three cases in which a Glomar response was asserted in the answer to the complaint and was not subsequently challenged, but provide no case law holding that a Glomar response may be used in an answer. See Defs. Opp’n at 3.
+. Plaintiff is correct when he states that the "[redacted] material clearly remains part of Plaintiff's SAC [Second Amended Complaint], It has merely been removed from public disclosure.” Pl.'s Reply at 2.

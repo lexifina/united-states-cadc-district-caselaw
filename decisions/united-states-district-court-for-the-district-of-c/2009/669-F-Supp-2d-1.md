@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "Civil Action No. 04-0236 (RCL)"
 decided: "2009-11-12"
-citations: ["669 F. Supp. 2d 1", "669 F. Supp. 2d 8"]
+citations: ["669 F. Supp. 2d 1"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Richard G. CONVERTINO, Plaintiff, v. UNITED STATES DEPARTMENT OF JUST
 source_url: "https://static.case.law/f-supp-2d/669/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3814515
-cites_cases: ["121 F.3d 729", "145 F.3d 1422", "186 F.R.D. 170", "193 F.R.D. 1", "193 F.R.D. 10", "2005 U.S. Dist. LEXIS 33156", "2005 U.S.Dist. LEXIS 33156", "2005 WL 3447890", "2005 WL 3828731", "2006 U.S. Dist. LEXIS 64907", "2006 WL 2616187", "2009 WL 837468", "202 F.R.D. 332", "40 F.R.D. 318", "60 F.3d 867", "617 F.2d 854", "926 F.2d 1192"]
+cites_cases: ["121 F.3d 729", "145 F.3d 1422", "186 F.R.D. 170", "193 F.R.D. 1", "2005 U.S. Dist. LEXIS 33156", "2005 U.S.Dist. LEXIS 33156", "2005 WL 3447890", "2006 U.S. Dist. LEXIS 64907", "2006 WL 2616187", "202 F.R.D. 332", "40 F.R.D. 318", "60 F.3d 867", "617 F.2d 854", "926 F.2d 1192"]
 ---
 
 # Convertino v. United States Department of Justice

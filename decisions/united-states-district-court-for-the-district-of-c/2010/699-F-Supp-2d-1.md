@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 09-1238(PLF)"
+decided: "2010-03-29"
+citations: ["699 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Yasmin CARTY, Plaintiff, v. DISTRICT OF COLUMBIA, Defendant."]
+source_url: "https://static.case.law/f-supp-2d/699/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5722802
+cites_cases: ["119 S.Ct. 2399", "144 L.Ed.2d 798", "160 F.3d 750", "275 F.3d 1113", "29 C.F.R. § 1601.13", "29 U.S.C. § 626", "29 U.S.C. §§ 621", "346 F.3d 192", "404 U.S. 519", "42 U.S.C. § 12117", "42 U.S.C. §§ 12101", "424 F.Supp.2d 60", "478 F.3d 364", "488 F.3d 442", "514 F.3d 1365", "527 U.S. 1038", "533 F.Supp.2d 94", "664 F.Supp.2d 1", "668 F.Supp.2d 222", "777 F.2d 8"]
+---
+
+# Carty v. District of Columbia
+
+## Majority (PAUL L. FRIEDMAN, District Judge.)
+
+MEMORANDUM OPINION
+PAUL L. FRIEDMAN, District Judge.
+This employment discrimination matter is before the Court on the District of Columbia’s motion to dismiss. After careful consideration of the parties’ papers, the relevant case law, the relevant statutes and regulations, and the entire history of the case, the Court will grant the District of Columbia’s motion.
+The entire substance of pro se plaintiff Yasmin Carty’s complaint states:
+Now comes Plaintiff vers[u]s Defendants regarding Unequal Pay for Salary that should have been paid for period 2002 through 2007 from Grade 7 to Grade 9, a lateral promotion I was entitled to. Other charges are ADA, ADEA, Title VII includes Nationality, harassment/constructive discharge and job related injuries.
+I am asking for $300,000.00 to include tort/punitive damages and court costs.
+Complaint. Defendant moves to dismiss for failure to serve, failure to exhaust, and failure to state a claim.
+A plaintiff is required to exhaust her administrative remedies prior to filing a civil action for discrimination under Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. §§ 2000e et seq. (“Title VII”), the Americans with Disabilities Act, 42 U.S.C. §§ 12101 et seq., (“ADA”), and the Age Discrimination in Employment Act, 29 U.S.C. §§ 621 et seq. (“ADEA”). See 42 U.S.C. § 2000e-5(e)(l) (Title VII); 29 U.S.C. § 626(d) (ADEA); 42 U.S.C. § 12117(ADA). See also Smith v. Janey, 664 F.Supp.2d 1, 9-10 & n. 5 (D.D.C.2009). The District of Columbia is incorrect, however, that plaintiff had the burden to plead and ultimately prove that she exhausted her claims. See Motion to Dismiss, Memorandum in Support at 4-5. Administrative exhaustion under Title VII, the ADA, and the ADEA is an affirmative defense that defendant has the burden to plead and prove. See Rann v. Chao, 346 F.3d 192, 194-195 (D.C.Cir.2003) (ADEA claims); Porter v. Jackson, 668 F.Supp.2d 222, 230 n. 6 (D.D.C.2009) (Title VII claims); Raines v. Dep’t of Justice, 424 F.Supp.2d 60, 65 (D.D.C.2006) (citing Brown v. Marsh, 777 F.2d 8, 13 (D.C.Cir.1985)) (ADA claims). In response to defendant’s motion, however, plaintiff has filed documents that she believes show that she did exhaust her claims properly. See Plaintiffs Motion of Additional Documents and Information to Complaint (“Supp. Opp.”), Attachments. The Court will examine these documents to determine whether plaintiff has exhausted her claims or not.
+Plaintiff first contacted the District of Columbia Office of Human Rights (“DCOHR”) regarding the claims currently before the Court by filing an Employment Intake Questionnaire on March 5, 2009. See Supp. Opp., Attachments at 4. The DCOHR acknowledged receipt of this document on March 16, 2009. See id. at 6. DCOHR administratively dismissed her complaint on April 20, 2009 for failure to exhaust. See id. at 8. Plaintiff also has attached a letter from the District of Columbia Office of the Attorney General dated April 30, 2009, stating that on that date her final counseling interview had occurred, and that she could file a formal complaint with the DCOHR within fifteen days. See id. at 7.
+Although the record of plaintiffs administrative exhaustion efforts is incomplete, based on the documents described in the preceding paragraph, it is plain that she did not contact the DCOHR or the Equal Employment Opportunity Commission (“EEOC”) until March 2009. See also Supp. Opp. at 1 (“In regards to filing a complaint with EEOC, I did file my complaint in March 5, 2009 with the Office of Human Right... .”). Typically for a Title VII, ADEA, or ADA claim, an aggrieved party (who is not a federal employee) is required to file a charge of discrimination with the EEOC within 180 days of the alleged discriminatory incident. See 42 U.S.C. § 2000e-5(e)(l); 29 U.S.C. § 626(d); 42 U.S.C. § 12117; see also Mayers v. Laborers’ Health & Safety Fund, 478 F.3d 364, 368 (D.C.Cir.2007); Washington v. WMATA 160 F.3d 750, 752 (D.C.Cir.1998), cert. denied, 527 U.S. 1038, 119 S.Ct. 2399, 144 L.Ed.2d 798 (1999). When a worksharing agreement exists between the EEOC and a local fair employment practices agency, such as exists between the EEOC and the DCOHR, however, that time period is extended to 300 days. See 29 C.F.R. § 1601.13(a)(4)(ii)(A); Harris v. Gonzales, 488 F.3d 442, 445 (D.C.Cir.2007); Mayers v. Laborers’ Health & Safety Fund, 478 F.3d at 368.
+The alleged acts of discrimination asserted by plaintiff in her complaint allegedly occurred between 2002 and 2007. Plaintiff did not file a charge of discrimination with the EEOC or DCOHR until March 5, 2009. Even assuming her complaint suggests a discriminatory act or acts on the very last day of 2007, December 31, 2007, plaintiffs first contact with DCOHR was on March 5, 2009 — substantially more than 300 days after the last alleged discriminatory act. Plaintiff therefore did not timely exhaust her administrative remedies, and the case must be dismissed.
+An Order to accompany this Memorandum Opinion will issue this same day.
+. Because plaintiff is proceeding pro se, the Court has evaluated her complaint under "less stringent standards than formal pleadings drafted by lawyers.” Chandler v. W.E. Welch & Associates, Inc., 533 F.Supp.2d 94, 102 (D.D.C.2008) (quoting Haines v. Kerner, 404 U.S. 519, 520, 92 S.Ct. 594, 30 L.Ed.2d 652 (1972)); see also Gray v. Poole, 275 F.3d 1113, 1115 (D.C.Cir.2002).
+. In contrast, under the Rehabilitation Act, exhaustion is a jurisdictional requirement that a plaintiff has the burden to plead and prove. See Porter v. Jackson, 668 F.Supp.2d at 230 n. 6.
+. When a charge of discrimination is filed with the EEOC in the District of Columbia, a claim will automatically be cross-filed with the DCOHR, and vice-versa, pursuant to a “worksharing agreement” between the two agencies. 29 C.F.R. § 1601.13(a)(4)(h); see Schuler v. PricewaterhouseCoopers, LLP, 514 F.3d 1365, 1372 (D.C.Cir.2008).
+. Because the Court has determined that plaintiff did not exhaust her administrative remedies, it need not reach the other bases on which the District of Columbia moves for dismissal.

@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "Civil Action No. 89-1854 (RCL)"
 decided: "2010-11-01"
-citations: ["729 F. Supp. 2d 9", "729 F. Supp. 2d 19"]
+citations: ["729 F. Supp. 2d 9"]
 reporter: "f-supp-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["SECURITIES AND EXCHANGE COMMISSION, Plaintiff, v. Paul A. BILZERIAN, 
 source_url: "https://static.case.law/f-supp-2d/729/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4202789
-cites_cases: ["1 F.3d 985", "112 F.Supp.2d 12", "127 F.Supp.2d 232", "131 F.Supp.2d 10", "153 F.Supp.2d 23", "173 F.R.D. 1", "180 F.3d 298", "1993 WL 542584", "2010 WL 2771844", "204 U.S. 599", "237 F.Supp.2d 71", "253 F.3d 34", "257 F.3d 694", "26 F.3d 1001", "28 U.S.C. § 1291", "28 U.S.C. § 455", "29 F.3d 689", "290 F.Supp.2d 153", "327 F.3d 56", "334 F.3d 1128", "355 F.Supp.2d 414", "380 F.2d 570", "39 F.3d 1224", "444 F.3d 462", "455 U.S. 445", "462 F.3d 87", "473 F.2d 118", "486 U.S. 847", "487 U.S. 72", "51 F.3d 1116", "510 U.S. 540", "519 F.2d 116", "519 F.3d 909", "542 F.3d 950", "560 F.2d 412", "564 F.2d 929", "570 F.Supp.2d 95", "574 F.2d 198", "583 F.Supp.2d 1", "6 F.3d 350", "606 F.3d 530", "613 F.Supp.2d 66", "636 F.2d 572", "641 F.Supp.2d 16", "668 F.2d 1238", "729 F.Supp.2d 1", "75 Fed.Appx. 3", "76 F.3d 1205", "783 F.2d 934", "795 F.2d 601", "808 F.2d 1349", "810 F.2d 243", "814 F.Supp. 116", "842 F.2d 1408", "855 F.2d 687", "880 F.Supp. 37", "926 F.2d 1285", "994 F.Supp. 18", "995 F.2d 274"]
+cites_cases: ["153 F.Supp.2d 23", "173 F.R.D. 1", "180 F.3d 298", "1993 WL 542584", "2010 WL 2771844", "204 U.S. 599", "257 F.3d 694", "28 U.S.C. § 1291", "29 F.3d 689", "290 F.Supp.2d 153", "334 F.3d 1128", "355 F.Supp.2d 414", "39 F.3d 1224", "444 F.3d 462", "455 U.S. 445", "462 F.3d 87", "473 F.2d 118", "487 U.S. 72", "519 F.2d 116", "560 F.2d 412", "570 F.Supp.2d 95", "574 F.2d 198", "583 F.Supp.2d 1", "6 F.3d 350", "613 F.Supp.2d 66", "636 F.2d 572", "641 F.Supp.2d 16", "729 F.Supp.2d 1", "76 F.3d 1205", "795 F.2d 601", "808 F.2d 1349", "810 F.2d 243", "814 F.Supp. 116", "842 F.2d 1408", "855 F.2d 687", "880 F.Supp. 37", "926 F.2d 1285", "994 F.Supp. 18", "995 F.2d 274"]
 ---
 
 # Securities & Exchange Commission v. Bilzerian

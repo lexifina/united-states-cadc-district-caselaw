@@ -1,0 +1,38 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 11-1818(BAH)"
+decided: "2012-05-07"
+citations: ["874 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shavonne BAILEY, Petitioner, v. Isaac FULWOOD, Jr., Respondent."]
+source_url: "https://static.case.law/f-supp-2d/874/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3853890
+cites_cases: ["2007 WL 2669896", "28 U.S.C. § 2241", "542 U.S. 426", "709 F.2d 730", "750 F.Supp.2d 103", "815 F.Supp.2d 81"]
+---
+
+# Bailey v. Fulwood
+
+## Majority (BERYL A. HOWELL, District Judge.)
+
+MEMORANDUM OPINION
+BERYL A. HOWELL, District Judge.
+On October 13, 2011, Shavonne Bailey (“petitioner”) filed a petition for a writ of habeas corpus. The Court issued an order to show cause on March 2, 2012, and the United States Parole Commission (“Commission”) filed its response on March 15, 2012. For the reasons discussed below, the Court will deny the petition and dismiss this action.
+I. BACKGROUND The petitioner began a five-year term of supervised release on September 29, 2006. See United States Parole Commission’s Opposition to Petitioner’s Petition for a Writ of Habeas Corpus (“USPC Opp’n”), Ex. C (Certificate of Supervised Release). While under supervision, she was charged with possession with intent to distribute cocaine, an offense for which she was convicted and sentenced on November 5, 2010 in the Superior Court of the District of Columbia. See id., Ex. D (Judgment in a Criminal Case, United States v. Bailey, No. 2010 CF2 012193 (D.C.Super.Ct. Nov. 5, 2010)). The Superior Court imposed a 24-month term of imprisonment, suspended execution of all but three months of that term, imposed and suspended execution of a five-year term of supervised release, and placed'petitioner on a 24-month term of supervised probation. Id., Ex. D.
+Based on this conduct, the Commission charged the petitioner with the following violation of the terms of her release:
+Charge No. 1—Law Violation. Possession with Intent to Distribute a Controlled Substance—Cocaine (Conviction). On 7-5-10, the releasee was the front seat passenger during a traffic stop. During a search of the vehicle, officers discovered the subject’s wallet containing $80 and her license in the glove compartment box with a piece of tissue containing 20 small zipper storage bags of crack cocaine. The releasee was arrested by the Metropolitan Police Department for the above-cited offense on 7-5-10. On 11-5-10, the releasee was convicted by the Superior Court for the District of Columbia for the above-cited offense and sentenced to 24 months followed by 5 years supervised release ESS as to all but 3 months followed by 2 years supervised probation. This charge is based on the information contained in the violation report dated 11-16-10 from supervising officer Shirley Simons, a police report dated 7-5-10, and a judgment dated 11-5-10. Status of Custody/Criminal Proceedings: The subject completed this sentence.
+USPC Opp’n, Ex. E (Warrant Application dated May 11, 2011) at 2 (emphasis in original). A violator warrant was issued on May 11, 2011, id., Ex. E (Warrant dated May 11, 2011), and was executed on May 23, 2011, id. (United States Marshal’s Return to United States Parole Commission dated May 23, 2011). According to the petitioner, at the time she filed her habeas petition, she had been “held for 4 months and counting” after the execution of a violator warrant on or about May 23, 2011, without having received a hearing on the matter. Pet. at 5.
+The Commission conducted a revocation hearing on December 14, 2011. USPC Opp’n, Ex. H (Hearing Summary) at 1. It revoked supervised release and ordered that the petitioner “serve a new term of imprisonment of 13 month(s) from May 19, 2011, the date the warrant was executed,” after which she would “serve a new term of supervised release of 47 months following release from custody.” Id., Ex. I (Notice of Action dated January 17, 2012) at 1. Her projected release date was April 30, 2012. Id., Ex. J (Inmate Locator).
+II. DISCUSSION
+The petitioner alleges a “violation of due process” arising from the Commission’s delay in conducting a supervision revocation hearing because the “paper work had gotten lost.” Pet. at 5. Delay of a revocation hearing “is not itself a valid ground for immediate release[;]” instead, a releasee’s “remedy ... is an action to compel a hearing.” Hill v. Johnston, 750 F.Supp.2d 103, 105-06 (D.D.C.2010); see Sutherland v. McCall, 709 F.2d 730, 732 (D.C.Cir.1983) (finding that the appropriate remedy for a delayed parole revocation hearing “is a writ of mandamus to compel the Commission’s compliance ... not a writ of habeas corpus to compel release ... or to extinguish the remainder of the sentence” (emphasis in original)). The record demonstrates that petitioner’s revocation hearing already has taken place, and, therefore, the petitioner is not entitled to mandamus relief. Habeas relief would be available “only ... where a petitioner establishes that the Commission’s delay in holding a revocation hearing was both unreasonable and prejudicial.” Sutherland, 709 F.2d at 732. Here, the petitioner neither alleges nor demonstrates that the delay “prejudiced [her] defense at the revocation hearing.” Id. at 733.
+Now that the petitioner has received the only relief available to her, the Court will deny the habeas petition as moot. See Vactor v. U.S. Parole Comm’n, 815 F.Supp.2d 81, 84 (D.D.C.2011) (finding petitioner’s claim for mandamus was moot because the probable cause hearing already had been held and the revocation hearing had been scheduled); Simmons v. O’Brien, No. 7:07-cv-00193, 2007 WL 2669896, at *2 (W.D.Va. Sept. 6, 2007) (“While the delay in the instant case may have been unreasonable as the government concedes that the hearing should have been conducted soon after [the petitioner] returned to federal custody, [the court] find[s] that [his] claim was rendered moot by the ... rescission hearing” which already had taken place).
+III. CONCLUSION A District of Columbia prisoner is entitled to habeas corpus relief under 28 U.S.C. § 2241 if she establishes that her “custody is in violation of the Constitution or laws or treaties of the United States.” 28 U.S.C. § 2241(c)(3). This petitioner does not establish that her custody is unlawful, and her claim arising from the Commission’s delay in conducting a supervision revocation hearing is moot. Accordingly, the habeas petition will be denied, and this action will be dismissed.
+An Order accompanies this Memorandum Opinion.
+ORDER
+For the reasons stated in the accompanying Memorandum Opinion, it is hereby ORDERED that the order, to show cause [Dkt. #2] is DISCHARGED; it is FURTHER ORDERED that the petition for a writ of habeas corpus [Dkt. #1] is DENIED as moot; and it is FURTHER ORDERED that this civil action is DISMISSED.
+This is a final appealable Order. See Fed. R. App. P. 4(a).
+SO ORDERED.
+. At that time, petitioner was detained at the Correctional Treatment Facility in the District of Columbia. Notwithstanding her subsequent transfer to the Federal Correctional Institution in Danbury, Connecticut, see United States Parole Commission's Opposition to Petitioner's Petition for a Writ of Habeas Corpus at 3 n. 1, this Court retains jurisdiction. See Rumsfeld v. Padilla, 542 U.S. 426, 439, 124 S.Ct. 2711, 159 L.Ed.2d 513 (2004).
+. According to the BOP Inmate Locator, petitioner was released from custody on April 20, 2012.

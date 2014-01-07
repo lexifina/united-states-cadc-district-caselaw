@@ -1,0 +1,38 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Action No. 11-01601 (BJR)"
+decided: "2014-01-07"
+citations: ["10 F. Supp. 3d 41"]
+reporter: "f-supp-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alan Matthew SPADONE, Plaintiff, v. John M. MCHUGH, Defendant"]
+source_url: "https://static.case.law/f-supp-3d/10/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4214019
+cites_cases: ["108 F.3d 346", "108 F.3d 366", "403 U.S. 388", "461 U.S. 95", "484 U.S. 305", "915 F.2d 699"]
+---
+
+# Spadone v. McHugh
+
+## Majority (BARBARA J. ROTHSTEIN, UNITED STATES DISTRICT JUDGE)
+
+MEMORANDUM OPINION
+MEMORANDUM OPINION GRANTING DEFENDANT’S MOTION TO DISMISS [26]
+BARBARA J. ROTHSTEIN, UNITED STATES DISTRICT JUDGE
+I. INTRODUCTION
+Before the Court is Defendant John M. McHugh’s Motion to Dismiss [26]. Upon consideration of the parties’ arguments, the relevant case law, and the entire record, the Court grants Defendant’s motion.
+II. FACTUAL AND PROCEDURAL BACKGROUND
+Plaintiff was enrolled at the United States Military Academy (“West Point”) until his suspension on December 12, 2010. Plaintiff was suspended due to allegations that he had submitted assignments that were not his own work in violation of West Point’s Honor Code. Plaintiff alleges that on April 19, 2010, during the Honor Investigative Hearing to consider Plaintiffs conduct, the Commandant of Cadets ordered him to stand at attention and read aloud the “Cadet’s Prayer,” a monotheistic prayer. Compl. at ¶¶ 46-48.
+Plaintiff filed his complaint on September 6, 2011. Plaintiff sought injunctive relief reversing his disenrollment from West Point and setting aside Defendant’s order that Plaintiff report for two years of duty as an enlisted soldier. In the alternative, Plaintiff sought injunctive relief preventing Defendant from requiring that Plaintiff serve as an enlisted soldier. Plaintiff also sought monetary damages for back pay and attorney’s fees and costs. Compl. at ¶ 150. Plaintiff alleged violations of the Administrative Procedures Act, violations of his right to due process, and that the Commandant of Cadets’ order requiring him to recite the Cadet’s Prayer violated the Establishment Clause of the First Amendment.
+On June 6, 2012, The Honorable Richard W. Roberts issued an order dismissing the majority of Plaintiffs claims. On August 29, 2013, this case was transferred to the undersigned. The sole remaining claim before the Court is Plaintiffs allegation that Defendant violated the Establishment Clause by requiring Plaintiff to recite the Cadet’s Prayer. On June 20, 2012, Defendant filed the instant Motion to Dismiss [26]. Briefing is now complete.
+III. ANALYSIS
+Defendant argues that this Court lacks jurisdiction over Plaintiffs remaining claim because this case is moot. Defendant argues that because Plaintiff has been disenrolled from West Point he is no longer at risk of constitutional harm due to forced prayer ordered by a military superior.
+“Article III of the Constitution restricts the federal courts to deciding only ‘actual, ongoing controversies.’ ” Nat’l Black Police Ass’n v. D.C., 108 F.3d 346, 349 (D.C.Cir.1997) (quoting Honig v. Doe, 484 U.S. 305, 317, 108 S.Ct. 592, 98 L.Ed.2d 686 (1988)). “Even where litigation poses a live controversy when filed ... [a] court [must] refrain from deciding it if events have so transpired that the decision will neither presently affect the parties’ rights nor have a more-than-speculative chance of affecting them in the future.” Nat’l Black Police Ass’n, 108 F.3d at 349 (quoting Clarke v. United States, 915 F.2d 699, 701 (D.C.Cir.1990)). In cases where a plaintiff seeks injunctive relief, the plaintiff must allege some likelihood of future injury. See City of Los Angeles v. Lyons, 461 U.S. 95, 105-06, 103 S.Ct. 1660, 75 L.Ed.2d 675 (1983).
+In his complaint Plaintiff alleges only that he was ordered by the Commandant of Cadets to read the Cadet’s Prayer. Defendant ai’gues that Plaintiffs establishment clause claim is limited to his relationship with West Point. Defendant argues that, because Plaintiff is no longer enrolled at West Point, there is no possibility that he will face the harm from which he seeks injunctive relief, namely, violation of the Establishment Clause. Defendant further argues that Plaintiffs case does not fall into the “capable of repetition, yet avoiding review” exception to mootness because the specific harm Plaintiff complains of is not capable of repetition given his disenrollment from West Point.
+Plaintiff argues in response that his orders to serve two years of active duty as an enlisted soldier bring him within reach of further harm from Defendant. Plaintiff argues that he “will be subject to the authority of the Defendant for at least another two years. As long as Spadone is in the Army, his constitutional .rights will be in danger.” PL’s Opp’n at 3. Plaintiff generalizes the injunctive relief he seeks as against “a military superior’s order to pray.” Id.
+The Court is not persuaded by Plaintiffs argument. Plaintiff alleges, without evidence of a policy or practice on the part of Defendant, that he may be ordered by a military superior to pray in the future. Such an allegation is far too speculative to establish a future risk of harm. As noted by Defendant, the Army already recognizes that “[t]he Establishment Clause forbids any governmental authority from mandating a religion or way of prayer,” and that “[participation in religious activities is voluntary.” Army Reg. 165-1 (Army Chaplain Corps Activities) at-¶¶ 1-6(b), 2 — 1(b); Defi’s Reply, Ex. 2. Defendant also notes that the Army maintains a policy to investigate alleged religious discrimination including, presumably, mandatory prayer. Plaintiff has failed to demonstrate that any Constitutional right of his is presently in jeopardy or likely to be in jeopardy in the future. As such, the Court finds this case moot.
+Plaintiff also makes a brief argument that his ease is not moot because he is entitled to money damages for Defendant’s alleged Constitutional violation pursuant to Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics, 403 U.S. 388, 397, 91 S.Ct. 1999, 29 L.Ed.2d 619 (1971). However, Plaintiff failed to plead the threshold requirements of a Bivens action in his complaint, and indeed did not assert a Bivens cause of action until his opposition to Defendant’s motion to dismiss. Defendant McHugh was not sued in his individual capacity, nor did Plaintiff seek money damages in his complaint. Further, Plaintiff did not allege the personal involvement of Defendant in the Establishment Clause violation, and appears to rest on a theory of respon-deat superior, i.e. that Defendant is responsible for the actions of the Commandant of Cadets. However, “Bivens claims cannot rest merely on respondeat superior ... [t]he complaint must at least allege that the defendant federal official was personally involved in the illegal conduct.” Simpkins v. District of Columbia Government, 108 F.3d 366, 369 (D.C.Cir.1997). As such, Plaintiffs untimely Bivens argument does not save his case from mootness.
+An order consistent with this memorandum opinion will issue separately.
+. A procedure used at West Point to investigate alleged violations of the Honor Code.
+. Cadets at West Point are paid a salary by the Army from which the costs of their attendanee are deducted. See FAQ-Cadet Life, United States Military Academy (Jan. 7, 2014, 11:57 AM), http://www.usma.edu/admissions/ SitePages/FAQJLife. aspx.

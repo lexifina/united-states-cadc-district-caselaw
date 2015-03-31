@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Columbia"
 docket: "Civil Action No. 09-1600 (ESH)"
 decided: "2015-03-31"
-citations: ["89 F. Supp. 3d 36", "89 F. Supp. 3d 67"]
+citations: ["89 F. Supp. 3d 36"]
 reporter: "f-supp-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["UNITED STATES of America EX REL. Dani SHEMESH, Plaintiff, v. CA, INC.
 source_url: "https://static.case.law/f-supp-3d/89/cases/0036-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4308941
-cites_cases: ["104 F.3d 1453", "117 F.3d 621", "123 Stat. 1617", "127 F.Supp. 801", "129 5.Ct. 1987", "134 S.Ct. 2899", "16 F.3d 1271", "173 L.Ed.2d 868", "176 F.3d 776", "18 U.S.C. § 3287", "180 F.Supp.2d 192", "189 L.Ed.2d 853", "2007 WL 2220586", "2009 WL 2601952", "2010 WL 2650224", "2013 WL 2462109", "2013 WL 2666346", "2013 WL 3893323", "2014 WL 2772907", "2014 WL 3509789", "21 F.Supp.3d 825", "238 F.Supp.2d 258", "24 F.3d 292", "240 F.Supp.2d 8", "254 F.Supp.2d 69", "26 F.Supp.2d 162", "275 F.Supp.2d 1", "297 F.Supp.2d 272", "30 A.3d 147", "31 U.S.C. § 3730", "31 U.S.C. § 3731", "31 U.S.C. §§ 3729", "352 F.3d 908", "357 F.3d 62", "367 F.3d 958", "370 F.Supp.2d 18", "389 F.3d 1251", "393 F.3d 1321", "41 U.S.C. § 7103", "41 U.S.C. §§ 7101", "41 U.S.C. §§ 7104", "422 U.S. 490", "474 F.Supp.2d 75", "479 F.2d 201", "48 C.F.R, § 515.408", "48 C.F.R. § 515.408", "48 C.F.R. § 538.270", "48 C.F.R. § 538.272", "48 C.F.R. § 552.238-75", "48 C.F.R. § 8.401", "48 C.F.R. § 8.402", "48 C.F.R. § 8.404", "5 F.Supp. 844", "50 U.S.C. § 1544", "503 F.Supp.2d 611", "51 F.Supp.3d 9", "518 F.Supp.2d 108", "530 F.3d 980", "546 F.3d 288", "550 U.S. 544", "551 U.S. 308", "556 U.S. 662", "570 F.3d 849", "58 F.Supp.3d 37", "587 F.3d 1136", "626 F.3d 1257", "642 F.2d 1373", "656 U.S. 662", "675 A.2d 67", "685 F.Supp.2d 129", "686 F.Supp.2d 46", "697 A.2d 1193", "710 F.3d 171", "751 F.Supp.2d 842", "798 F.Supp.2d 186", "800 F.Supp.2d 143", "884 F.Supp.2d 589", "972 F.Supp.2d 593"]
+cites_cases: ["104 F.3d 1453", "117 F.3d 621", "123 Stat. 1617", "127 F.Supp. 801", "134 S.Ct. 2899", "16 F.3d 1271", "176 F.3d 776", "18 U.S.C. § 3287", "180 F.Supp.2d 192", "189 L.Ed.2d 853", "2007 WL 2220586", "2009 WL 2601952", "2010 WL 2650224", "2013 WL 2462109", "2013 WL 2666346", "2013 WL 3893323", "2014 WL 2772907", "2014 WL 3509789", "21 F.Supp.3d 825", "238 F.Supp.2d 258", "24 F.3d 292", "26 F.Supp.2d 162", "275 F.Supp.2d 1", "297 F.Supp.2d 272", "31 U.S.C. § 3730", "31 U.S.C. § 3731", "31 U.S.C. §§ 3729", "352 F.3d 908", "367 F.3d 958", "370 F.Supp.2d 18", "389 F.3d 1251", "393 F.3d 1321", "422 U.S. 490", "474 F.Supp.2d 75", "48 C.F.R, § 515.408", "48 C.F.R. § 515.408", "48 C.F.R. § 538.270", "48 C.F.R. § 538.272", "48 C.F.R. § 552.238-75", "48 C.F.R. § 8.401", "48 C.F.R. § 8.402", "5 F.Supp. 844", "50 U.S.C. § 1544", "503 F.Supp.2d 611", "51 F.Supp.3d 9", "518 F.Supp.2d 108", "546 F.3d 288", "550 U.S. 544", "556 U.S. 662", "570 F.3d 849", "58 F.Supp.3d 37", "587 F.3d 1136", "626 F.3d 1257", "642 F.2d 1373", "685 F.Supp.2d 129", "686 F.Supp.2d 46", "710 F.3d 171", "751 F.Supp.2d 842", "798 F.Supp.2d 186", "884 F.Supp.2d 589", "972 F.Supp.2d 593"]
 ---
 
 # United States ex rel. Shemesh v. CA, Inc.

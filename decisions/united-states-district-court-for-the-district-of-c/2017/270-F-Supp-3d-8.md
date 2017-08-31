@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the District of Columbia"
+docket: "Civil Case No. 14-1040 (RJL-GMH)"
+decided: "2017-08-31"
+citations: ["270 F. Supp. 3d 8"]
+reporter: "f-supp-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vail LOPEZ, et al., Plaintiffs, v. TIMECO, INC., et al., Defendants."]
+source_url: "https://static.case.law/f-supp-3d/270/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12273274
+cites_cases: ["29 C.F.R. § 531.59", "29 U.S.C. § 203", "336 F.3d 1085", "477 U.S. 242", "535 F.3d 689", "632 F.3d 1259", "D.C. Code §§ 32-1001", "D.C. Code §§ 32-1301"]
+---
+
+# Lopez v. Timeco, Inc.
+
+## Majority (RICHARD J. LEON, United States District Judge . .)
+
+MEMORANDUM OPINION
+RICHARD J. LEON, United States District Judge . .
+Plaintiffs are ten individuals employed by Timeco, Inc., as bütchers, stockpersons, meat packers, and deliverymen. Their lawsuit asserts that-Timeco and its president, Houshang Momenian, paid them unlawful wages in violation of federal and District of Columbia law. Before the Court is plaintiffs’ Motion for Summary Judgment Regarding Tip Credit [Dkt. #24], The Motion attempts to preclude defendants from limiting their potential liability by counting as wages tips earned by plaintiffs. Upon con-sideratioh of the pleadings, relevant law, and the entire record heréin, the Court determines' that plaintiffs have not met their burden to show that there are no genuine disputes of material fact regarding the “tip credit” issue. Accordingly, the Court will DENY plaintiffs’ Motion.
+BACKGROUND
+Tipping is customary in many industries. The Fail* Labor Standards Act (“FLSA”) permits employers in such industries to calculate a “tip credit and to include that amount when figuring an employee’s total “wage” for purposes of complying with FLSA’s minimum wage provisions. See 29 U.S.C. § 203(m). The net result is that án employer can pay an employee less than the federally-mandated minimum wage if the employee earns enough in tips to make up the difference. While this practice is generally thought to benefit employees because they retain any surplus above the minimum wage, FLSA also imposes certain safeguards. As relevant here, “an employer is not eligible to take the tip credit unless it has informed its tipped employees in advance of the employer’s use of the tip credit.” 29 C.F.R. § 531.59(b); see 29 U.S.C. § 203(m)(2).
+The instant lawsuit asserts claims under FLSA and two D.C. statutes for defendants alleged failure to pay minimum wage or overtime. Anticipating that defendants will rely on the tip credit to reduce their potential liability, plaintiffs filed the instant Motion. They assert four facts in support of the Motion, none of which defendants dispute. (1) plaintiffs worked for defendants, Pis.’ SOF ¶1; (2) plaintiffs were paid fixed weekly rates, Pis.’ SOF ¶ 2; (3) plaintiffs received tips, Pis.’ SOF ¶ 3; and (4) Houshang Momenian, President of Timeco, “did not discuss tips with the [pjlaintiffs and did not disclose that [djefendants intended to use the tips as a credit toward minimum wage,” Pis.’ SOF ¶ 4.
+Although defendants do not contest these four facts, they proffer evidence which casts them in a different light. Specifically, defendants present an affidavit by Mart Dashzegve, the store manager for Timeco, in which Dashzegve states that he supervised all of the plaintiffs.” Deck of Mart Dashzegve ¶¶ 1-4 (“Dashzegve Deck”) [Dkt. #32-3]; cf Am. Compl. ¶ 11 (alleging “Momenian supervised [pjlaintiffs directly or indirectly”) [Dkt. #9J. Da-shzegve explains that it was his role, as store manager, to “explain[J the job to new workers.” Dashzegve Deck ¶ 5. He also says that he discussed tips with each new worker, id. ¶¶ 7-10, and further that “[ajll of the [pjlaintiffs understood that their income was supplemented by tips,” id. ¶9. Plaintiffs did not file a reply in support of their Motion and thus have not addressed the Dashzegve declaration.
+STANDARD OF REVIEW
+Plaintiffs move for summary judgment. Summary judgment is appropriate “if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed, R. Civ. P. 56(a). “A fact is material if it ‘might affect the outcome of the suit under the governing law,’ and a dispute about a material fact is genuine ‘if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.’” Steele v. Schafer, 535 F.3d 689, 692 (D.C. Cir. 2008) (quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986)). “In making that determination, the court ‘must view the evidence in the light most favorable to [the nonmoving party], draw all reasonable inferences in [their] favor, and eschew making credibility determinations or weighing the evidence.’” Calhoun v. Johnson, 632 F.3d 1259, 1261 (D.C. Cir. 2011) (quoting Lathram v. Snow, 336 F.3d 1085, 1088 (D.C. Cir. 2003)).
+ANALYSIS
+To prevail on their Motion for summary judgment, plaintiffs must establish that Ti-meco failed to inform them that it would use a tip credit to offset the wages paid by the company. See 29 U.S.C. § 203(m); 29 C.F.R. § 531.59(b). The onVy' evidence proffered by plaintiffs in support of this conclusion is deposition testimony that defendant Momenian did. not personally discuss the tip credit with plaintiffs. Pis.’ SOF ¶.1.
+Plaintiffs’ proffer is insufficient to carry their burden. Even without the Dashzegve declaration, a reasonable, jury could infer that an organization with the resources to hire, ten workers is likely also to employ supervisors who, as part of their function, discuss company policy with their subordinates. That is especially so where, as here, 'plaintiffs ’have acknowledged that Momenian, as president of the' company, may'have only “indirectly supervised Ti-meco’s employees. Am. Compl. ¶ 11.
+But I heed not rely only on a negative inference' drawn from plaintiffs’ sparse proffer.' The Dashzegve declaration states that Dashzegve discussed with every worker Timeco’s use of tips to supplement'regular wages, and that each of the' workers who are now plaintiffs in this ease understood that policy. Although the declaration does not make clear whether the content of these discussions complied with all of the requirements set forth in the’ federal regulations, viewed in the light most favorable to defendants, the declaration is sufficient at least to raisé a genuine dispute'as to whether Timeco properly disclosed to plaintiffs that it would use a tip credit. Accordingly, plaintiffs’ Motion for summary judgment on this, issue must be denied.
+CONCLUSION
+For all of the above reasons, the Court will DENY plaintiffs’’Motion for Summary Judgment Regarding Tip Credit. ‘An Order accompanies this Memorandum Opinion.
+. The two statutes are the D.C. Minimum Wage Revision Act, D.C. Code §§ 32-1001 et seq., and the D.C. Wage Payment and Collection Law, D.C. Code §§ 32-1301 et seq.
+. The parties do dispute whether some or all of the plaintiffs were independent contractors as opposed to employees. See Am. Compl. ¶ 16; Answer to Am. Compl. ¶ 16. I do not resolve that dispute here.
